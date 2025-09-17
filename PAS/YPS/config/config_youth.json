@@ -1,0 +1,36 @@
+{
+    "_comment1": "project config",
+    "config_folder": "config",
+    "mappings_folder": "config/mappings",
+    "templates_folder": "config/templates",
+    "result_folder": "result/2round/youth/zeroshot",
+    "data_root_folder": "data/Young_people_survey/",
+    "plot_folder": "plots",
+    "exp_folder": "exp_data",
+
+    "_comment3": "fields config",
+     "id_fields": ["index"],
+    "situation": ["index","Gender","Age","Music","Slow songs or fast songs","Dance", "Folk", "Country","Classical music","Musical","Pop","Rock","Metal or Hardrock",
+    "Punk","Hiphop, Rap","Reggae, Ska","Swing, Jazz","Rock n roll","Alternative","Latino","Techno, Trance","Opera","Movies","Horror","Thriller","Comedy","Romantic",
+    "Sci-fi","War","Fantasy/Fairy tales","Animated","Documentary","Western","Action"],
+     "cond_fields": ["Music","Slow songs or fast songs","Dance", "Folk", "Country","Classical music","Musical","Pop","Rock","Metal or Hardrock",
+    "Punk","Hiphop, Rap","Reggae, Ska","Swing, Jazz","Rock n roll","Alternative","Latino","Techno, Trance","Opera","Movies","Horror","Romantic",
+    "Sci-fi","War","Fantasy/Fairy tales","Animated"
+     ],
+    "pred_fields": ["Action","Documentary","Thriller","Comedy"],
+    "option_field": ["Music","Slow songs or fast songs","Dance", "Folk", "Country","Classical music","Musical","Pop","Rock","Metal or Hardrock",
+    "Punk","Hiphop, Rap","Reggae, Ska","Swing, Jazz","Rock n roll","Alternative","Latino","Techno, Trance","Opera","Movies","Horror","Thriller","Comedy","Romantic",
+    "Sci-fi","War","Fantasy/Fairy tales","Animated","Documentary","Western","Action"],
+    "number_field": ["index","Gender","Age"],
+
+    "_comment4": "aggregation rules",
+    "group_rules": {
+        "filter0": {}
+    },
+
+    "_comment5": "cols to reserve",
+
+    "_comment6": "filtered csv path (after filtering selected features)"
+
+
+}

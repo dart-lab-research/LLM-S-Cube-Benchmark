@@ -1,0 +1,137 @@
+{
+"Fav genre": {
+    "Classical music": "Classical music",
+    "Country music": "Country music",
+    "EDM": "EDM",
+    "Folk": "Folk",
+    "Gospel": "Gospel",
+    "Hip hop": "Hip hop",
+    "Jazz": "Jazz",
+    "K pop": "K pop",
+    "Latin": "Latin",
+    "Lofi": "Lofi",
+    "Metal": "Metal",
+    "Pop": "Pop",
+    "R&B": "R&B",
+    "Rap": "Rap",
+    "Rock": "Rock",
+    "Video game music": "Video game music"
+},
+
+"While working": {
+    "Yes": "listens",
+    "No": "does not listen"
+},
+
+"Instrumentalist": {
+    "Yes": "plays",
+    "No": "does not play"
+},
+
+"Composer": {
+    "Yes": "The respondent composes music",
+    "No": "The respondent does not compose music"
+},
+
+"Exploratory": {
+    "Yes": "who actively explores new artists or genres",
+    "No": "who does not actively explore new artists or genres"
+},
+"Frequency [Classical]": {
+    "Never": "The respondent never listens to classical music",
+    "Rarely": "The respondent listens to classical music rarely",
+    "Sometimes": "The respondent sometimes listens to classical music",
+    "Very frequently": "The respondent listens to classical music very frequently"
+},
+"Frequency [Country]": {
+    "Never": "The respondent never listens to country music",
+    "Rarely": "The respondent listens to country music rarely",
+    "Sometimes": "The respondent sometimes listens to country music",
+    "Very frequently": "The respondent listens to country music very frequently"
+},
+"Frequency [EDM]": {
+    "Never": "The respondent never listens to EDM",
+    "Rarely": "The respondent listens to EDM rarely",
+    "Sometimes": "The respondent sometimes listens to EDM",
+    "Very frequently": "The respondent listens to EDM very frequently"
+},
+"Frequency [Folk]": {
+    "Never": "The respondent never listens to folk music",
+    "Rarely": "The respondent listens to folk music rarely",
+    "Sometimes": "The respondent sometimes listens to folk music",
+    "Very frequently": "The respondent listens to folk music very frequently"
+},
+"Frequency [Gospel]": {
+    "Never": "The respondent never listens to gospel music",
+    "Rarely": "The respondent listens to gospel music rarely",
+    "Sometimes": "The respondent sometimes listens to gospel music",
+    "Very frequently": "The respondent listens to gospel music very frequently"
+},
+"Frequency [Hip hop]": {
+    "Never": "The respondent never listens to hip hop",
+    "Rarely": "The respondent listens to hip hop rarely",
+    "Sometimes": "The respondent sometimes listens to hip hop",
+    "Very frequently": "The respondent listens to hip hop very frequently"
+},
+"Frequency [Jazz]": {
+    "Never": "The respondent never listens to jazz",
+    "Rarely": "The respondent listens to jazz rarely",
+    "Sometimes": "The respondent sometimes listens to jazz",
+    "Very frequently": "The respondent listens to jazz very frequently"
+},
+"Frequency [K pop]": {
+    "Never": "The respondent never listens to K pop",
+    "Rarely": "The respondent listens to K pop rarely",
+    "Sometimes": "The respondent sometimes listens to K pop",
+    "Very frequently": "The respondent listens to K pop very frequently"
+},
+"Frequency [Latin]": {
+    "Never": "The respondent never listens to Latin music",
+    "Rarely": "The respondent listens to Latin music rarely",
+    "Sometimes": "The respondent sometimes listens to Latin music",
+    "Very frequently": "The respondent listens to Latin music very frequently"
+},
+"Frequency [Lofi]": {
+    "Never": "The respondent never listens to lofi music",
+    "Rarely": "The respondent listens to lofi music rarely",
+    "Sometimes": "The respondent sometimes listens to lofi music",
+    "Very frequently": "The respondent listens to lofi music very frequently"
+},
+"Frequency [Metal]": {
+    "Never": "The respondent never listens to metal music",
+    "Rarely": "The respondent listens to metal music rarely",
+    "Sometimes": "The respondent sometimes listens to metal music",
+    "Very frequently": "The respondent listens to metal music very frequently"
+},
+"Frequency [Pop]": {
+    "Never": "The respondent never listens to pop music",
+    "Rarely": "The respondent listens to pop music rarely",
+    "Sometimes": "The respondent sometimes listens to pop music",
+    "Very frequently": "The respondent listens to pop music very frequently"
+},
+"Frequency [R&B]": {
+    "Never": "The respondent never listens to R&B music",
+    "Rarely": "The respondent listens to R&B music rarely",
+    "Sometimes": "The respondent sometimes listens to R&B music",
+    "Very frequently": "The respondent listens to R&B music very frequently"
+},
+"Frequency [Rap]": {
+    "Never": "The respondent never listens to rap music",
+    "Rarely": "The respondent listens to rap music rarely",
+    "Sometimes": "The respondent sometimes listens to rap music",
+    "Very frequently": "The respondent listens to rap music very frequently"
+},
+"Frequency [Rock]": {
+    "Never": "The respondent never listens to rock music",
+    "Rarely": "The respondent listens to rock music rarely",
+    "Sometimes": "The respondent sometimes listens to rock music",
+    "Very frequently": "The respondent listens to rock music very frequently"
+},
+"Frequency [Video game music]": {
+    "Never": "The respondent never listens to video game music",
+    "Rarely": "The respondent listens to video game music rarely",
+    "Sometimes": "The respondent sometimes listens to video game music",
+    "Very frequently": "The respondent listens to video game music very frequently"
+}
+
+}

@@ -1,0 +1,29 @@
+{
+"VEHI":{
+    "VEHTYPE":"The individual's travel experience is closely related to their vehicle, which is a {VEHTYPE} ",
+    "MAKE":"manufactured by {MAKE}, ",
+    "MODEL":"which model is {MODEL}. ",
+    "VEHYEAR":"The vehicle is a {VEHYEAR} model ",
+    "VEHAGE":"and is approximately {VEHAGE} years old. ",
+    "OD_READ":"The vehicle has been driven a total of {OD_READ} since production."
+},    
+"VEHUI":{
+    "VEHID":"The Household Vehicle Identification Number (HVIN) used on this trip is {VEHID} ",
+    "VEHOWNMO":"and the vehicle has been owned for {VEHOWNMO}, ",
+    "VEHOWNED":"and {VEHOWNED}",
+    "FUELTYPE":"The type of fuel used in the vehicle is {FUELTYPE}, ",
+    "HFUEL":"with the specific type indicated by {HFUEL} if it is a hybrid."
+},
+"VEHTI":{
+    "ANNMILES":"The owner reported the vehicle's estimated annual mileage as {ANNMILES} miles, ",
+    "BESTMILE":"while the best estimated annual mileage was recorded as {BESTMILE} miles. ",
+    "FEGEMPG":"According to EIA data available at FuelEconomy.gov, the vehicle's fuel economy is {FEGEMPG} miles per gallon with a city/highway split of 55/45.",
+    "FEGEMPGA":"Additionally, the alternative fuel economy rating for the 55/45 split is {FEGEMPGA} miles per gallon."
+},
+"RI":{
+    "GSCOST":"The annual fuel cost of the vehicle on a per gallon equivalent basis is {GSCOST} dollars. USD. ",
+    "GSTOTCST":"Over the course of a year, the total fuel expense is {GSTOTCST} $. USD ",
+    "GSYRGAL":"and the vehicle consumes approximately {GSYRGAL} gallons of fuel."
+}
+}
+

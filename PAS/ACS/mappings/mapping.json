@@ -1,0 +1,53 @@
+{
+    "Race": {
+    "white": "white",
+    "black": "black",
+    "Other": "other races"
+},
+
+"gender": {
+    "male": "male,",
+    "female": "female," 
+ },
+ 
+ "citizen": { 
+    "yes": "The respondent is a U.S. citizen.", 
+    "no": "The respondent is not a U.S. citizen." 
+ },
+ 
+ "lang": { 
+    "english": "English", 
+    "other": "a language other than English" 
+ },
+ 
+ "married": {
+    "yes": "married",
+    "no": "not married"
+},
+
+"edu": {
+    "hs or lower": "high school or lower.",
+    "college": "college.",
+    "other": "categorized as other."
+},
+
+"disability": {
+    "yes": "has a disability.",
+    "no": "does not have a disability."
+},
+
+"birth_qrtr": {
+    "Jan thru Mar": "between January and March.",
+    "apr thru jun": "between April and June.",
+    "jul thru sep": "between July and September.",
+    "oct thru dec": "between October and December."
+},
+
+"employment": {
+    "employed": "employed",
+    "not in labor force": "not in the labor force",
+    "unemployed": "unemployed",
+    "NA": "not available or not applicable"
+}
+
+}

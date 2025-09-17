@@ -1,0 +1,29 @@
+{
+    "_comment1": "project config",
+    "config_folder": "config",
+    "mappings_folder": "config/mappings",
+    "templates_folder": "config/templates",
+    "result_folder": "result/2round/music_mental/zeroshot",
+    "data_root_folder": "data/music_mental/",
+    "plot_folder": "plots",
+    "exp_folder": "exp_data",
+
+    "_comment3": "fields config",
+    "id_fields": ["index"],
+    "situation": ["index","Timestamp","Age","Fav genre","Hours per day","While working","Instrumentalist","Composer","Exploratory","Frequency [Classical]", "Frequency [Country]", "Frequency [EDM]","Frequency [Folk]","Frequency [Gospel]","Frequency [Hip hop]","Frequency [Jazz]",
+    "Frequency [K pop]","Frequency [Latin]","Frequency [Lofi]","Frequency [Metal]","Frequency [Pop]","Frequency [R&B]","Frequency [Rap]","Frequency [Rock]","Frequency [Video game music]","Anxiety","Depression","Insomnia","OCD"],
+    "pred_fields": ["Anxiety","Depression","Insomnia","OCD"],
+    "option_field": ["Fav genre", "While working", "Instrumentalist","Composer","Exploratory","Frequency [Classical]", "Frequency [Country]", "Frequency [EDM]","Frequency [Folk]","Frequency [Gospel]","Frequency [Hip hop]","Frequency [Jazz]",
+    "Frequency [K pop]","Frequency [Latin]","Frequency [Lofi]","Frequency [Metal]","Frequency [Pop]","Frequency [R&B]","Frequency [Rap]","Frequency [Rock]","Frequency [Video game music]"],
+    "number_field": ["age","Hours per day"],
+
+    "_comment4": "aggregation rules",
+    "group_rules": {
+        "filter0": {}
+    },
+
+    "_comment5": "cols to reserve",
+    "_comment6": "filtered csv path (after filtering selected features)"
+
+
+}

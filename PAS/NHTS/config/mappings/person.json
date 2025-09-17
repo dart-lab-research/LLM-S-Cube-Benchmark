@@ -1,0 +1,382 @@
+{
+    "ALT_16":{
+        "1": "public transportation (bus, subway, light rail, etc.)",
+        "2": "taxi (regular taxi, Uber, Lyft, etc.)",
+        "3": "both public transportation and Taxi"
+    },
+    "ALT_23":{
+        "1": "getting a ride from a friend or family member",
+        "2": "rental car (including Zipcar / Car2Go)",
+        "3": "both get a ride from a friend or family member and rental car"
+    },
+    "ALT_45":{
+        "1": "bicycle",
+        "2": "walk",
+        "3": "both bicycle and walk"
+    },
+
+    "BIKE_DFR":{
+        "1": "no nearby paths or trails",
+        "2": "no sidewalks or sidewalks are in poor condition",
+        "3": "no nearby parks",
+        "4": "no nearby paths or trails or no sidewalks or sidewalks are in poor condition",
+        "5": "no nearby paths or trails or no nearby parks",
+        "6": "no sidewalks or sidewalks are in poor condition or no nearby parks",
+        "7": "no nearby paths or trails or no sidewalks or sidewalks are in poor condition or no nearby parks"  
+    },
+    "BIKE_GKP":{
+        "1": "street crossings are unsafe",
+        "2": "heavy traffic with too many cars",
+        "3": "not enough lighting at night",
+        "4": "street crossings are unsafe or heavy traffic with too many cars",
+        "5": "street crossings are unsafe or not enough lighting at night",
+        "6": "heavy traffic with too many cars or not enough lighting at night",
+        "7": "street crossings are unsafe or heavy traffic with too many cars or not enough lighting at night"
+    },
+
+    "BORNINUS":{
+        "1": "born in US",
+        "2": "didn't born in US"
+    },
+
+    "CONDIGH": {
+        "1": "drives less to daytime",
+        "2": "drives as usual to daytime"
+    },
+    "CONDPUB": {
+        "1": "uses bus or subway less frequently",
+        "2": "uses bus or subway as usual"
+    },
+    "CONDRIDE": {
+        "1": "asks others for rides",
+        "2": "doesn't ask others for rides"
+    },
+    "CONDRIVE": {
+        "1": "gives up driving",
+        "2": "keeps on driving"
+    },
+    "CONDSPEC": {
+        "1": "uses special transportation services",
+        "2": "doesn't use special transportation services"
+    },
+    "CONDTAX": {
+        "1": "uses a reduced fare taxi",
+        "2": "doesn't use a reduced fare taxi"
+    },
+    "CONDTRAV": {
+        "1": "reduces day-to-day travel",
+        "2": "doesn't reduce day-to-day travel"
+    },
+    "MEDCOND":{
+        "1": "in good condition",
+        "2": "in bad condition"
+    },
+    "MEDCOND6":{
+        "1": "6 months or less",
+        "2": "more than 6 months",
+        "3": "life-long time"
+    },
+
+    "DELIVER":" The count of times purchased online for delivery in last 30 days is ",
+    "DIARY":{
+        "1": "completed",
+        "2": "incompleted"
+    },
+
+    "FLEXTIME":{
+        "1": "has flex time",
+        "2": "has no flex time"
+    },
+    "FRSTHM17":{
+        "1": "travel day began at home location",
+        "2": "travel day began at other places"
+    },
+    "GCDWORK":"The minimum geodesic distance between home location and work location in meters is ",
+
+    "GT1JBLWK":{
+        "1": "more than one job",
+        "2": "no more than one job"
+    },
+    "HEALTH":{
+        "01": "excellent",  
+        "02": "very good",  
+        "03": "good",  
+        "04": "fair",  
+        "05": "poor"
+    },
+
+    "LSTTRDAY17":{
+        "01": "the day before",  
+        "02": "a few days before",  
+        "03": "a week before",  
+        "04": "more than a week before but within a month",  
+        "05": "more than a month before"
+    },
+
+    "WALK_DEF":{
+        "1": "no nearby paths or trails",
+        "2": "no nearby parks",
+        "3": "no sidewalks or sidewalks are in poor condition",
+        "4": "no nearby paths or trails or no nearby parks",
+        "5": "no nearby paths or trails or no sidewalks or sidewalks are in poor condition",
+        "6": "no nearby parks or no nearby paths or trails or no sidewalks or sidewalks are in poor condition",
+        "7": "no nearby paths or trails or no nearby parks or no nearby paths or trails or no sidewalks or sidewalks are in poor condition"
+    },
+    "WALK_GKQ":{
+        "1": "street crossings are unsafe",
+        "2": "heavy traffic with too many cars",
+        "3": "not enough lighting at night",
+        "4": "street crossings are unsafe or heavy traffic with too many cars",
+        "5": "street crossings are unsafe or not enough lighting at night",
+        "6": "heavy traffic with too many cars or not enough lighting at night",
+        "7": "street crossings are unsafe or heavy traffic with too many cars or not enough lighting at night"
+    },
+    "WHOPROXY":{
+        "01": 1,  
+        "02": 2,  
+        "03": 3,  
+        "04": 4,  
+        "05": 5,  
+        "06": 6,  
+        "07": 7,  
+        "08": 8,  
+        "09": 9,  
+        "10": 10,  
+        "13": 13
+    },
+
+    "WKFTPT":{
+        "1": "full-time worker",
+        "2": "part-time worker"
+    },
+    "WKRMHM":{
+        "1": "chooses working from home",
+        "2": "chooses working from other places"
+    },
+    "WRK_HOME":{
+        "1": "works from home",
+        "2": "works from other places"
+    },
+    "WKSTFIPS":{
+        "01": "Alabama",  
+        "02": "Alaska",  
+        "04": "Arizona",  
+        "05": "Arkansas",  
+        "06": "California",  
+        "08": "Colorado",  
+        "09": "Connecticut",  
+        "10": "Delaware",  
+        "11": "District of Columbia",  
+        "12": "Florida",  
+        "13": "Georgia",  
+        "15": "Hawaii",  
+        "16": "Idaho",  
+        "17": "Illinois",  
+        "18": "Indiana",  
+        "19": "Iowa",  
+        "20": "Kansas",  
+        "21": "Kentucky",  
+        "22": "Louisiana",  
+        "23": "Maine",  
+        "24": "Maryland",  
+        "25": "Massachusetts",  
+        "26": "Michigan",  
+        "27": "Minnesota",  
+        "28": "Mississippi",  
+        "29": "Missouri",  
+        "30": "Montana",  
+        "31": "Nebraska",  
+        "32": "Nevada",  
+        "33": "New Hampshire",  
+        "34": "New Jersey",  
+        "35": "New Mexico",  
+        "36": "New York",  
+        "37": "North Carolina",  
+        "38": "North Dakota",  
+        "39": "Ohio",  
+        "40": "Oklahoma",  
+        "41": "Oregon",  
+        "42": "Pennsylvania",  
+        "44": "Rhode Island",  
+        "45": "South Carolina",  
+        "46": "South Dakota",  
+        "47": "Tennessee",  
+        "48": "Texas",  
+        "49": "Utah",  
+        "50": "Vermont",  
+        "51": "Virginia",  
+        "53": "Washington",  
+        "54": "West Virginia",  
+        "55": "Wisconsin",  
+        "56": "Wyoming"
+    },
+
+    "WRKTRANS":{
+        "01": "Walk",  
+        "02": "Bicycle",  
+        "03": "Car",  
+        "04": "SUV",  
+        "05": "Van",  
+        "06": "Pickup truck",  
+        "07": "Golf cart / Segway",  
+        "08": "Motorcycle / Moped",  
+        "09": "RV (motor home, ATV, snowmobile)",  
+        "10": "School bus",  
+        "11": "Public or commuter bus",  
+        "12": "Paratransit / Dial-a-ride",  
+        "13": "Private / Charter / Tour / Shuttle bus",  
+        "14": "City-to-city bus (Greyhound, Megabus)",  
+        "15": "Amtrak / Commuter rail",  
+        "16": "Subway / Elevated / Light rail / Street car",  
+        "17": "Taxi / Limo (including Uber / Lyft)",  
+        "18": "Rental car (including Zipcar / Car2Go)",  
+        "19": "Airplane",  
+        "20": "Boat / Ferry / Water taxi",  
+        "97": "Something Else"
+    },
+    "OCCAT":{
+        "01": "sales or service",  
+        "02": "clerical or administrative support",  
+        "03": "manufacturing, construction, maintenance, or farming",  
+        "04": "professional, managerial, or technical",  
+        "97": "something else"
+    },
+    "OUTCNTRY":{
+        "1": "was out of the country on travel day",
+        "2": "was in the country on travel day"
+    },
+    "OUTOFTWN":{
+        "1": "was away from home for entire travel day",
+        "2": "not away from home for entire travel day"
+    },
+    "PAYPROF":{
+        "1": "worked for pay",
+        "2": "didn't work for pay"
+    },
+    "PRMACT":{
+        "1": "working",  
+        "2": "temporarily absent from a job or business",  
+        "3": "looking for work / unemployed",  
+        "4": "a homemaker",  
+        "5": "going to school",  
+        "6": "retired",  
+        "97": "something else"
+    },
+
+    "PHYACT":{
+        "1": "rarely or never do any physical activity",  
+        "2": "do some light or moderate physical activities",  
+        "3": "do some vigorous physical activities"
+    },
+
+    "PROXY":{
+        "1": "self-report",  
+        "2": "proxy-report"
+    },
+
+    "R_HISP":{
+        "1": "is Hispanic or Latino",
+        "2": "is not Hispanic or Latino"
+    },
+    "R_RELAT":{
+        "1": "self",  
+        "2": "spouse/unmarried partner",  
+        "3": "child",  
+        "4": "parent",  
+        "5": "brother/sister",  
+        "6": "other relative",  
+        "7": "non-relative"
+    },
+    "SAMEPLC":{
+        "1": "personally sick",  
+        "2": "vacation or personal day",  
+        "3": "caretaking",  
+        "4": "disabled or home-bound",  
+        "5": "worked at home (for pay)",  
+        "6": "not scheduled to work",  
+        "7": "worked around home (not for pay)",  
+        "8": "bad weather",  
+        "9": "out of country",  
+        "10": "no transportation available",  
+        "97": "something else"
+    },
+    "SCHTRN1":{
+        "1": "walk",  
+        "2": "bicycle",  
+        "3": "car",  
+        "4": "suv",  
+        "5": "van",  
+        "6": "pickup truck",  
+        "7": "golf cart / segway",  
+        "8": "motorcycle / moped",  
+        "9": "rv (motor home, atv, snowmobile)",  
+        "10": "school bus",  
+        "11": "public or commuter bus",  
+        "12": "paratransit / dial-a-ride",  
+        "13": "private / charter / tour / shuttle bus",  
+        "14": "city-to-city bus (greyhound, megabus)",  
+        "15": "amtrak / commuter rail",  
+        "16": "subway / elevated / light rail / street car",  
+        "17": "taxi / limo (including uber / lyft)",  
+        "18": "rental car (including zipcar / car2go)",  
+        "19": "airplane",  
+        "20": "boat / ferry / water taxi",  
+        "97": "something else"
+    },
+    "SCHTRN2":{
+        "1": "walk",  
+        "2": "bicycle",  
+        "3": "car",  
+        "4": "suv",  
+        "5": "van",  
+        "6": "pickup truck",  
+        "7": "golf cart / segway",  
+        "8": "motorcycle / moped",  
+        "9": "rv (motor home, atv, snowmobile)",  
+        "10": "school bus",  
+        "11": "public or commuter bus",  
+        "12": "paratransit / dial-a-ride",  
+        "13": "private / charter / tour / shuttle bus",  
+        "14": "city-to-city bus (greyhound, megabus)",  
+        "15": "amtrak / commuter rail",  
+        "16": "subway / elevated / light rail / street car",  
+        "17": "taxi / limo (including uber / lyft)",  
+        "18": "rental car (including zipcar / car2go)",  
+        "19": "airplane",  
+        "20": "boat / ferry / water taxi",  
+        "97": "something else"
+    },
+    "SCHTYP":{
+        "1": "Public or private school",
+        "2": "Home schooled",
+        "3": "Not in school"
+    },
+
+    "W_CANE":{
+        "1": "cane"
+    },
+    "W_CHAIR":{
+        "7": "manual wheelchair"
+    },
+    "W_CRUTCH":{
+        "5": "crutches"
+    },
+    "W_DOG":{
+        "4": "seeing-eye dog or other K-9 assistance"
+    },
+    "W_MTRCHR":{
+        "8": "motorized wheelchair"
+    },
+    "W_NONE":{
+        "0": "none"
+    },
+    "W_SCOOTR":{
+        "6": "motorized scooter"
+    },
+    "W_WHCANE":{
+        "3": "white cane"
+    },
+    "W_WLKR":{
+        "2": "walker"
+    }
+}

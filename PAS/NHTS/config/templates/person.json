@@ -1,0 +1,76 @@
+{
+    "ALT_MODES": {
+        "template_1": "This person uses {ALT_16} and {ALT_23} as alternative modes of transportation, and also opts for {ALT_45}. This person bikes for exercise {BIKE4EX} times and {BIKESHARE} times. Additionally, this person has {CARSHARE} times and {RIDESHARE} times. ",
+        "BIKE4EX": "the times of bike exercising is ",
+        "BIKESHARE": "the times of bike sharing is ",
+        "RIDESHARE": "the count of rideshare app usage is ",
+        "CARSHARE": "The count of people in car share program usage is "
+    },
+    "MED_COND": {
+        "template_2": "This person has a medical condition {MEDCOND} that has lasted for {MEDCOND6}. As a result of this condition, they are restricted to driving only during daylight hours ({CONDNIGH}), it leads to reduced use of public transit or the subway ({CONDPUB}), and they request rides from others ({CONDRIDE}). This person has given up driving due to the medical condition ({CONDRIVE}) and sometimes needs to use special transportation services ({CONDSPEC}). They also use discounted taxis ({CONDTAX}) and experience reduced daily travel due to the medical condition ({CONDTRAV})."
+    },
+    "BIKE_WLK": {
+        "template_3": "This person does not bike more often due to infrastructure issues ({BIKE_DFR}) and safety concerns ({BIKE_GKP}). This person has {NBIKETRP} times and has {WALK4EX} times. This person does not walk more often due to infrastructure issues ({WALK_DEF}) and safety concerns ({WALK_GKQ}). This person has {NWALKTRP} times.Also this person has {YEARMILE}",
+        "NBIKETRP": "the count of bike trips is",
+        "NWALKTRP": "the count of walk trips is",
+        "WALK4EX": "the count of walk trips for exercise is ",
+        "YEARMILE":"the miles personally driven in all vehicles is "
+    },
+    "TOURDIARY": {
+        "template_4": "This person has {CNTTDTR} . This person's travel diary completion status is {DIARY}, and the travel information comes from the respondent themselves (person identifier {PROXY}). The household member responsible for reporting the travel is identified by {WHOPROXY}. The travel day started at home ({FRSTHM17}), and the last trip before the travel day was {LSTTRDAY17}. The reason for not traveling is {SAMEPLC}. This person was outside the country on the travel day ({OUTCNTRY}) and was out of town on the travel day ({OUTOFTWN}).",
+        "CNTTDTR": "the number of trips on travel day is"
+    },
+    "PERSON_INFO": {
+        "template_5": "This person has {PERSONID}. This person's {R_AGE} (imputed {R_AGE_IMP}), and was of {R_HISP}. This person's relationship status is {R_RELAT}, and their gender is {R_SEX} (imputed gender is {R_SEX_IMP}). This person was {BORNINUS} and {YRTOUS}.",
+        "R_AGE": "age is ",
+        "R_AGE_IMP": "age is",
+        "PERSONID":"the person id ",
+        "YRTOUS": "the year of arrival in United States is "
+    },
+    "WRK_INFO": {
+        "template_6": "This person works as a {WKFTPT} and {WRK_HOME}. This person has the option to work from home ({WKRMHM}) and has {WKFMHMXX}. This person has {GT1JBLWK} and works in the {OCCAT} category. This person had paid work last week ({PAYPROF}).",
+        "WKFMHMXX":"the count of days worked from home in last month is "
+    },
+    "COMMUTE": {
+        "template_7": "The road network from home to work has {DISTTOWK17} miles, and {GCDWORK} meters. This person has {WRKTIME} and travels to work by {WRKTRANS}. This person {DRIVER}, and {CARRODE}. {DELIVER} and {PUBTIME}. This person has {PTUSED} times. This person's primary activity last week was {PRMACT}, and they have flexible work hours ({FLEXTIME}). This person's student status is {SCHTYP}, and they travel to school using {SCHTRN1} and from school using {SCHTRN2}. The road network distance from home to school is {DISTTOSC17} miles. This person works in the state with FIPS code {WKSTFIPS}.",
+        "DISTTOSC17": "the distance of ",
+        "GCDWORK": "the minimum geodesic distance between home location and work location in meters is ",
+        "WRKTIME":"The arrival time of work is ",
+        "CARRODE": "the count of people in vehicle to work is ",
+        "DELIVER":" The count of times purchased online for delivery in last 30 days is ",
+        "PUBTIME": "the minutes spent transferring to work is ",
+        "PTUSED": "the count of Public Transit Usage is "
+    },
+    "PHY_ACT": {
+        "template_8": "This person {PHYACT}. In the past week, this person has a {LPACT} and has a {VPACT}. This person also has a {MCUSED}.",
+        "LPACT": "count of times of light or moderate physical activity in past week is ",
+        "VPACT": "count of times of Vigorous Physical Activity in past week is ",
+        "MCUSED": "count of motorcycle or moped trips is"
+    },
+    "MED_DEVICE": {
+        "template_9": "This person uses a {W_CANE}{W_CHAIR}{W_CRUTCH}{W_DOG}{W_MTRCHR}{W_NONE}{W_SCOOTR}{W_WHCANE} as medical device."
+    },
+    "": {
+
+    },
+    "WRK_LOC": {
+        "template_3": "This person made {CNTTDTR} trips on the travel day and {DISTTOSC17} miles, and {DISTTOWK17} miles.",
+        "DISTTOSC17": "the road network distance, in miles, between respondent's home location and school location is ",
+        "DISTTOWK17": "the road network distance, in miles, between respondent's home location and work location is "
+    
+    },  
+    "HEALTH_ACT": {
+        "template_4": "This person's health status is {HEALTH}, and they engaged in light or moderate physical activity .The {LPACT} last week. This person has a medical condition ({MEDCOND}), which has lasted for {MEDCOND6}. The person's level of physical activity last week was {PHYACT}. {R_AGE}, and they are of Hispanic or Latino origin ({R_HISP}).",
+        "LPACT": "count of times of light or moderate physical activity in past week is ",
+        "R_AGE": "The age is "
+    },
+    "EPLOY_STAT": {
+        "template_5": "This person works in the {OCCAT} category and earned income last week ({PAYPROF}). This person's primary activity last week was {PRMACT}. This person works {WKFTPT} and {WKFMHMXX} days. {WRKTIME}.",
+        "WRKTIME":"The arrival time of work is ",
+        "WKFMHMXX":"The count of days worked from home in last month is "
+    },
+    "COMMUT_INFO": {
+        "template_6": "This person used public transit on the travel date ({USEPUBTR}). This person had {DELIVER} deliveries in the past 30 days. This person's travel diary completion status is {DIARY}, and they have flexible work hours ({FLXTIME})."
+    }
+
+}

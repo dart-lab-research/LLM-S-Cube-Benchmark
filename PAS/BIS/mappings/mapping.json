@@ -1,0 +1,133 @@
+{
+    "gender": { 
+    "male": "male.", 
+    "female": "female." 
+},
+    
+"rural": { 
+     "rural": "This person lives in a rural area.",
+     "urban": "This person lives in an urban area." 
+},
+
+"dem_education_level": { 
+    "no": "This person doesn't have a formal education.", 
+    "low": "This person has a low level of formal education.", 
+    "medium": "This person has a medium level of formal education.", 
+    "high": "This person has a high level of formal education." 
+},
+
+"dem_full_time_job": { 
+    "yes": "This person has a full-time job.", 
+    "no": "This person does not have a full-time job." 
+},
+
+"dem_has_children": {
+    "yes": "There are children in the individual's current household.",
+    "no": "There are no children in the individual's current household."
+},
+
+"question_bbi_2016wave4_basicincome_awareness": { 
+    "I understand it fully": "The respondent fully understands the concept of 'basic income'.", 
+    "I know something about it": "The respondent knows something about the concept of 'basic income'.",
+    "I have heard just a little about it": "The respondent has heard just a little about the concept of 'basic income'.",
+    "I have never heard of it": "The respondent has never heard of the concept of 'basic income'." 
+},
+"answer_bbi_2016wave4_basicincome_awareness": { 
+    "I understand it fully": 1,
+    "I know something about it": 2,
+    "I have heard just a little about it": 3,
+    "I have never heard of it": 4
+},
+
+"question_bbi_2016wave4_basicincome_vote": {
+        "I would vote for it": "The respondent would vote in favor of introducing basic income.",
+        "I would probably vote for it": "The respondent would probably vote in favor of introducing basic income.",
+        "I would probably vote against it": "The respondent would probably vote against introducing basic income.",
+        "I would vote against it": "The respondent would vote against introducing basic income.",
+        "I would not vote": "The respondent would not vote on the issue of introducing basic income."
+},
+"answer_bbi_2016wave4_basicincome_vote": {
+        "I would vote for it": 1,
+        "I would probably vote for it": 2,
+        "I would probably vote against it": 3,
+        "I would vote against it": 4,
+        "I would not vote": 5
+},
+"question_bbi_2016wave4_basicincome_effect": {
+        "...stop working": "The respondent would stop working if basic income were introduced.",
+        "...work less": "The respondent would work less if basic income were introduced.",
+        "...do more volunteering work": "The respondent would do more volunteering work if basic income were introduced.",
+        "...spend more time with my family": "The respondent would spend more time with family if basic income were introduced.",
+        "...look for a different job": "The respondent would look for a different job if basic income were introduced.",
+        "...work as a freelancer": "The respondent would work as a freelancer if basic income were introduced.",
+        "...gain additional skills": "The respondent would gain additional skills if basic income were introduced.",
+        "A basic income would not affect my work choices": "The respondent believes that basic income would not affect their work choices.",
+        "None of the above": "The respondent does not select any of the above options regarding the impact of basic income on their work choices."
+},
+"answer_bbi_2016wave4_basicincome_effect": {
+        "...stop working": 1,
+        "...work less": 2,
+        "...do more volunteering work": 3,
+        "...spend more time with my family": 4,
+        "...look for a different job": 5,
+        "...work as a freelancer": 6,
+        "...gain additional skills": 7,
+        "A basic income would not affect my work choices": 8,
+        "None of the above": 9
+},
+
+"question_bbi_2016wave4_basicincome_argumentsfor": {
+        "It reduces anxiety about financing basic needs": "The respondent finds this argument convincing: basic income reduces anxiety about financing basic needs.",
+        "It creates more equality of opportunity": "The respondent finds this argument convincing: basic income creates more equality of opportunity.",
+        "It encourages financial independence and self-responsibility": "The respondent finds this argument convincing: basic income encourages financial independence and self-responsibility.",
+        "It increases solidarity, because it is funded by everyone": "The respondent finds this argument convincing: basic income increases solidarity, because it is funded by everyone.",
+        "It reduces bureaucracy and administrative expenses": "The respondent finds this argument convincing: basic income reduces bureaucracy and administrative expenses.",
+        "It increases appreciation for household work and volunteering": "The respondent finds this argument convincing: basic income increases appreciation for household work and volunteering.",
+        "None of the above": "The respondent does not find any of the above arguments convincing for basic income."
+},
+    "answer_bbi_2016wave4_basicincome_argumentsfor": {
+        "It reduces anxiety about financing basic needs": 1,
+        "It creates more equality of opportunity": 2,
+        "It encourages financial independence and self-responsibility": 3,
+        "It increases solidarity, because it is funded by everyone": 4,
+        "It reduces bureaucracy and administrative expenses": 5,
+        "It increases appreciation for household work and volunteering": 6,
+        "None of the above": 7
+},
+    
+    "question_bbi_2016wave4_basicincome_argumentsagainst": {  
+    "It is impossible to finance": "The respondent finds this argument convincing: basic income is impossible to finance.",  
+    "It might encourage people to stop working": "The respondent finds this argument convincing: basic income might encourage people to stop working.",  
+    "Foreigners might come to my country and take advantage of the benefit": "The respondent finds this argument convincing: foreigners might come to the respondent's country and take advantage of the benefit.",  
+    "It is against the principle of linking merit and reward": "The respondent finds this argument convincing: basic income is against the principle of linking merit and reward.",  
+    "Only the people who need it most should get something from the state": "The respondent finds this argument convincing: only the people who need it most should get something from the state.",  
+    "It increases dependence on the state": "The respondent finds this argument convincing: basic income increases dependence on the state.",  
+    "None of the above": "The respondent does not find any of the above arguments convincing against basic income."  
+},
+    "answer_bbi_2016wave4_basicincome_argumentsagainst": {
+        "It is impossible to finance":1,
+        "It might encourage people to stop working":2,
+        "Foreigners might come to my country and take advantage of the benefit":3,
+        "It is against the principle of linking merit and reward":4,
+        "Only the people who need it most should get something from the state":5,
+        "It increases dependence on the state":6,
+        "None of the above":7
+    },
+
+"age_group": {
+        "14_25": "The respondent's age group is between 14 and 25 years.",
+        "26_39": "The respondent's age group is between 26 and 39 years.",
+        "40_65": "The respondent's age group is between 40 and 65 years."
+}
+
+}
+
+   
+ 
+
+    
+
+
+
+ 
+ 

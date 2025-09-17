@@ -1,0 +1,221 @@
+{
+
+  "Music": {
+    "1": "The respondent absolutely dislikes music and has no interest in it.",
+    "2": "The respondent dislikes music and rarely listens to it.",
+    "3": "The respondent feels neutral towards music, neither particularly liking nor disliking it.",
+    "4": "The respondent likes music and enjoys listening to it from time to time.",
+    "5": "The respondent absolutely loves music and finds it fascinating and enjoyable."
+  },
+  "Slow songs or fast songs": {
+    "1": "The respondent absolutely dislikes slow or fast songs and has no interest in them.",
+    "2": "The respondent dislikes slow or fast songs and rarely listens to them.",
+    "3": "The respondent feels neutral towards slow or fast songs, neither particularly liking nor disliking them.",
+    "4": "The respondent likes slow or fast songs and enjoys listening to them occasionally.",
+    "5": "The respondent absolutely loves slow or fast songs and finds them engaging and enjoyable."
+  },
+  "Dance": {
+    "1": "The respondent absolutely dislikes dance music and has no interest in it.",
+    "2": "The respondent dislikes dance music and rarely listens to it.",
+    "3": "The respondent feels neutral towards dance music, neither particularly liking nor disliking it.",
+    "4": "The respondent likes dance music and enjoys it from time to time.",
+    "5": "The respondent absolutely loves dance music and finds it exciting and energizing."
+  },
+  "Folk": {
+    "1": "The respondent absolutely dislikes folk music and has no interest in it.",
+    "2": "The respondent dislikes folk music and rarely listens to it.",
+    "3": "The respondent feels neutral towards folk music, neither particularly liking nor disliking it.",
+    "4": "The respondent likes folk music and enjoys listening to it occasionally.",
+    "5": "The respondent absolutely loves folk music and finds it relaxing and enjoyable."
+  },
+  "Country": {
+    "1": "The respondent absolutely dislikes country music and has no interest in it.",
+    "2": "The respondent dislikes country music and rarely listens to it.",
+    "3": "The respondent feels neutral towards country music, neither particularly liking nor disliking it.",
+    "4": "The respondent likes country music and enjoys it from time to time.",
+    "5": "The respondent absolutely loves country music and finds it soothing and entertaining."
+  },
+  "Classical music": {
+    "1": "The respondent absolutely dislikes classical music and has no interest in it.",
+    "2": "The respondent dislikes classical music and rarely listens to it.",
+    "3": "The respondent feels neutral towards classical music, neither particularly liking nor disliking it.",
+    "4": "The respondent likes classical music and enjoys it on occasion.",
+    "5": "The respondent absolutely loves classical music and finds it beautiful and peaceful."
+  },
+  "Musical": {
+    "1": "The respondent absolutely dislikes musical music and has no interest in it.",
+    "2": "The respondent dislikes musical music and rarely listens to it.",
+    "3": "The respondent feels neutral towards musical music, neither particularly liking nor disliking it.",
+    "4": "The respondent likes musical music and enjoys it from time to time.",
+    "5": "The respondent absolutely loves musical music and finds it inspiring and uplifting."
+  },
+  "Pop": {
+    "1": "The respondent absolutely dislikes pop music and has no interest in it.",
+    "2": "The respondent dislikes pop music and rarely listens to it.",
+    "3": "The respondent feels neutral towards pop music, neither particularly liking nor disliking it.",
+    "4": "The respondent likes pop music and enjoys it occasionally.",
+    "5": "The respondent absolutely loves pop music and finds it fun and energetic."
+  },
+  "Rock": {
+    "1": "The respondent absolutely dislikes rock music and has no interest in it.",
+    "2": "The respondent dislikes rock music and rarely listens to it.",
+    "3": "The respondent feels neutral towards rock music, neither particularly liking nor disliking it.",
+    "4": "The respondent likes rock music and enjoys it from time to time.",
+    "5": "The respondent absolutely loves rock music and finds it thrilling and powerful."
+  },
+  "Metal or Hardrock": {
+    "1": "The respondent absolutely dislikes metal or hard rock music and has no interest in it.",
+    "2": "The respondent dislikes metal or hard rock music and rarely listens to it.",
+    "3": "The respondent feels neutral towards metal or hard rock music, neither particularly liking nor disliking it.",
+    "4": "The respondent likes metal or hard rock music and enjoys it occasionally.",
+    "5": "The respondent absolutely loves metal or hard rock music and finds it energizing and intense."
+  },
+  "Punk": {
+    "1": "The respondent absolutely dislikes punk music and has no interest in it.",
+    "2": "The respondent dislikes punk music and rarely listens to it.",
+    "3": "The respondent feels neutral towards punk music, neither particularly liking nor disliking it.",
+    "4": "The respondent likes punk music and enjoys it from time to time.",
+    "5": "The respondent absolutely loves punk music and finds it rebellious and exciting."
+  },
+  "Hiphop, Rap": {
+    "1": "The respondent absolutely dislikes hip hop or rap music and has no interest in it.",
+    "2": "The respondent dislikes hip hop or rap music and rarely listens to it.",
+    "3": "The respondent feels neutral towards hip hop or rap music, neither particularly liking nor disliking it.",
+    "4": "The respondent likes hip hop or rap music and enjoys it occasionally.",
+    "5": "The respondent absolutely loves hip hop or rap music and finds it rhythmic and expressive."
+  },
+  "Reggae, Ska": {
+    "1": "The respondent absolutely dislikes reggae or ska music and has no interest in it.",
+    "2": "The respondent dislikes reggae or ska music and rarely listens to it.",
+    "3": "The respondent feels neutral towards reggae or ska music, neither particularly liking nor disliking it.",
+    "4": "The respondent likes reggae or ska music and enjoys it from time to time.",
+    "5": "The respondent absolutely loves reggae or ska music and finds it relaxing and lively."
+  },
+  "Swing, Jazz": {
+    "1": "The respondent absolutely dislikes swing or jazz music and has no interest in it.",
+    "2": "The respondent dislikes swing or jazz music and rarely listens to it.",
+    "3": "The respondent feels neutral towards swing or jazz music, neither particularly liking nor disliking it.",
+    "4": "The respondent likes swing or jazz music and enjoys it occasionally.",
+    "5": "The respondent absolutely loves swing or jazz music and finds it sophisticated and captivating."
+  },
+  "Rock n roll": {
+    "1": "The respondent absolutely dislikes rock n roll music and has no interest in it.",
+    "2": "The respondent dislikes rock n roll music and rarely listens to it.",
+    "3": "The respondent feels neutral towards rock n roll music, neither particularly liking nor disliking it.",
+    "4": "The respondent likes rock n roll music and enjoys it from time to time.",
+    "5": "The respondent absolutely loves rock n roll music and finds it nostalgic and fun."
+  },
+  "Alternative": {
+    "1": "The respondent absolutely dislikes alternative music and has no interest in it.",
+    "2": "The respondent dislikes alternative music and rarely listens to it.",
+    "3": "The respondent feels neutral towards alternative music, neither particularly liking nor disliking it.",
+    "4": "The respondent likes alternative music and enjoys it occasionally.",
+    "5": "The respondent absolutely loves alternative music and finds it unique and liberating."
+  },
+  "Latino": {
+    "1": "The respondent absolutely dislikes Latino music and has no interest in it.",
+    "2": "The respondent dislikes Latino music and rarely listens to it.",
+    "3": "The respondent feels neutral towards Latino music, neither particularly liking nor disliking it.",
+    "4": "The respondent likes Latino music and enjoys it from time to time.",
+    "5": "The respondent absolutely loves Latino music and finds it passionate and lively."
+  },
+  "Techno, Trance": {
+    "1": "The respondent absolutely dislikes techno or trance music and has no interest in it.",
+    "2": "The respondent dislikes techno or trance music and rarely listens to it.",
+    "3": "The respondent feels neutral towards techno or trance music, neither particularly liking nor disliking it.",
+    "4": "The respondent likes techno or trance music and enjoys it occasionally.",
+    "5": "The respondent absolutely loves techno or trance music and finds it energetic and immersive."
+  },
+  "Opera": {
+    "1": "The respondent absolutely dislikes opera music and has no interest in it.",
+    "2": "The respondent dislikes opera music and rarely listens to it.",
+    "3": "The respondent feels neutral towards opera music, neither particularly liking nor disliking it.",
+    "4": "The respondent likes opera music and enjoys it from time to time.",
+    "5": "The respondent absolutely loves opera music and finds it powerful and emotional."
+  },
+  "Movies": {
+    "1": "The young respondent absolutely dislikes movies and has no interest in them.",
+    "2": "The young respondent dislikes movies and rarely watches them.",
+    "3": "The young respondent feels neutral towards movies, neither particularly liking nor disliking them.",
+    "4": "The young respondent likes movies and enjoys watching them from time to time.",
+    "5": "The young respondent absolutely loves movies and finds them fascinating and entertaining."
+  },
+  "Horror": {
+    "1": "The young respondent absolutely dislikes horror movies and has no interest in them.",
+    "2": "The young respondent dislikes horror movies and rarely watches them.",
+    "3": "The young respondent feels neutral towards horror movies, neither particularly liking nor disliking them.",
+    "4": "The young respondent likes horror movies and enjoys watching them occasionally.",
+    "5": "The young respondent absolutely loves horror movies and finds them thrilling and exciting."
+  },
+  "Thriller": {
+    "1": "The young respondent absolutely dislikes thriller movies and has no interest in them.",
+    "2": "The young respondent dislikes thriller movies and rarely watches them.",
+    "3": "The young respondent feels neutral towards thriller movies, neither particularly liking nor disliking them.",
+    "4": "The young respondent likes thriller movies and enjoys watching them occasionally.",
+    "5": "The young respondent absolutely loves thriller movies and finds them suspenseful and gripping."
+  },
+  "Comedy": {
+    "1": "The young respondent absolutely dislikes comedy movies and has no interest in them.",
+    "2": "The young respondent dislikes comedy movies and rarely watches them.",
+    "3": "The young respondent feels neutral towards comedy movies, neither particularly liking nor disliking them.",
+    "4": "The young respondent likes comedy movies and enjoys watching them from time to time.",
+    "5": "The young respondent absolutely loves comedy movies and finds them hilarious and fun."
+  },
+  "Romantic": {
+    "1": "The young respondent absolutely dislikes romantic movies and has no interest in them.",
+    "2": "The young respondent dislikes romantic movies and rarely watches them.",
+    "3": "The young respondent feels neutral towards romantic movies, neither particularly liking nor disliking them.",
+    "4": "The young respondent likes romantic movies and enjoys watching them occasionally.",
+    "5": "The young respondent absolutely loves romantic movies and finds them heartwarming and touching."
+  },
+  "Sci-fi": {
+    "1": "The young respondent absolutely dislikes sci-fi movies and has no interest in them.",
+    "2": "The young respondent dislikes sci-fi movies and rarely watches them.",
+    "3": "The young respondent feels neutral towards sci-fi movies, neither particularly liking nor disliking them.",
+    "4": "The young respondent likes sci-fi movies and enjoys watching them occasionally.",
+    "5": "The young respondent absolutely loves sci-fi movies and finds them imaginative and thrilling."
+  },
+  "War": {
+    "1": "The young respondent absolutely dislikes war movies and has no interest in them.",
+    "2": "The young respondent dislikes war movies and rarely watches them.",
+    "3": "The young respondent feels neutral towards war movies, neither particularly liking nor disliking them.",
+    "4": "The young respondent likes war movies and enjoys watching them occasionally.",
+    "5": "The young respondent absolutely loves war movies and finds them intense and impactful."
+  },
+  "Fantasy/Fairy tales": {
+    "1": "The young respondent absolutely dislikes fantasy or fairy tale movies and has no interest in them.",
+    "2": "The young respondent dislikes fantasy or fairy tale movies and rarely watches them.",
+    "3": "The young respondent feels neutral towards fantasy or fairy tale movies, neither particularly liking nor disliking them.",
+    "4": "The young respondent likes fantasy or fairy tale movies and enjoys watching them occasionally.",
+    "5": "The young respondent absolutely loves fantasy or fairy tale movies and finds them magical and captivating."
+  },
+  "Animated": {
+    "1": "The young respondent absolutely dislikes animated movies and has no interest in them.",
+    "2": "The young respondent dislikes animated movies and rarely watches them.",
+    "3": "The young respondent feels neutral towards animated movies, neither particularly liking nor disliking them.",
+    "4": "The young respondent likes animated movies and enjoys watching them occasionally.",
+    "5": "The young respondent absolutely loves animated movies and finds them imaginative and fun."
+  },
+  "Documentary": {
+    "1": "The young respondent absolutely dislikes documentary movies and has no interest in them.",
+    "2": "The young respondent dislikes documentary movies and rarely watches them.",
+    "3": "The young respondent feels neutral towards documentary movies, neither particularly liking nor disliking them.",
+    "4": "The young respondent likes documentary movies and enjoys watching them occasionally.",
+    "5": "The young respondent absolutely loves documentary movies and finds them informative and fascinating."
+  },
+  "Western": {
+    "1": "The young respondent absolutely dislikes western movies and has no interest in them.",
+    "2": "The young respondent dislikes western movies and rarely watches them.",
+    "3": "The young respondent feels neutral towards western movies, neither particularly liking nor disliking them.",
+    "4": "The young respondent likes western movies and enjoys watching them occasionally.",
+    "5": "The young respondent absolutely loves western movies and finds them exciting and nostalgic."
+  },
+  "Action": {
+    "1": "The young respondent absolutely dislikes action movies and has no interest in them.",
+    "2": "The young respondent dislikes action movies and rarely watches them.",
+    "3": "The young respondent feels neutral towards action movies, neither particularly liking nor disliking them.",
+    "4": "The young respondent likes action movies and enjoys watching them occasionally.",
+    "5": "The young respondent absolutely loves action movies and finds them thrilling and fast-paced."
+  }
+}
+

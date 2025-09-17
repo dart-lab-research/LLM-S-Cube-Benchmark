@@ -1,0 +1,27 @@
+[2025-07-21 14:36:47] weekdays_round1_zero_llama3:  45.45%
+[2025-07-21 14:36:47] weekdays_round1_zero_llama3.1:  45.45%
+
+[2025-07-21 14:38:35] weekdays_round1_zero_llama3:  37.21%
+[2025-07-21 14:38:35] weekdays_round1_zero_llama3.1:  44.85%
+[2025-07-21 14:43:18] weekdays_round1_zero_llama3:  0.00%
+[2025-07-21 14:43:18] weekdays_round1_zero_llama3.1:  50.00%
+[2025-07-21 14:43:19] weekdays_round1_few_llama3:  50.00%
+[2025-07-21 14:43:19] weekdays_round1_few_llama3.1:  50.00%
+[2025-07-21 14:43:20] weekdays_round2_zero_llama3:  50.00%
+[2025-07-21 14:43:20] weekdays_round2_zero_llama3.1:  50.00%
+[2025-07-21 14:43:21] weekdays_round2_few_llama3:  50.00%
+[2025-07-21 14:43:21] weekdays_round2_few_llama3.1:  50.00%
+
+
+[2025-07-21 14:46:14] weekdays_round1_zero_llama3:  37.54%
+[2025-07-21 14:46:14] weekdays_round1_zero_llama3.1:  48.84%
+[2025-07-21 14:48:43] weekdays_round1_few_llama3:  71.43%
+[2025-07-21 14:48:43] weekdays_round1_few_llama3.1:  71.76%
+[2025-07-21 14:50:15] weekdays_round2_zero_llama3:  40.20%
+[2025-07-21 14:50:15] weekdays_round2_zero_llama3.1:  50.50%
+[2025-07-21 14:52:43] weekdays_round2_few_llama3:  71.10%
+[2025-07-21 14:52:43] weekdays_round2_few_llama3.1:  72.43%
+[2025-07-21 14:54:16] weekdays_round3_zero_llama3:  38.21%
+[2025-07-21 14:54:16] weekdays_round3_zero_llama3.1:  51.50%
+[2025-07-21 14:56:44] weekdays_round3_few_llama3:  70.43%
+[2025-07-21 14:56:44] weekdays_round3_few_llama3.1:  75.08%

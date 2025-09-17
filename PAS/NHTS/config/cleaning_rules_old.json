@@ -1,0 +1,5 @@
+{
+    "hhpub_filtered": {"HOMEOWN": [-7, -8], "HHFAMINC": [-7, -8, -9], "HH_CBSA": ["XXXXX"]},
+    "perpub_filtered": {"DRIVER": [-1], "EDUC": [-8, -7, -1], "R_AGE": [-8, -7], "R_RACE": [-7, -8], "WORKER": [-9, -1]},
+    "trippub_filtered": {"TRPMILES": [-9], "TRPTRANS": [-7, -8, -9], "TRVLCMIN": [-9]}
+}

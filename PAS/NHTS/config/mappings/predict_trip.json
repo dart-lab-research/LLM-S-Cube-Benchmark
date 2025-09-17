@@ -1,0 +1,46 @@
+{
+    "ENDTIME": "What's the endtime of the trip?",
+
+    "LOOP_TRIP": "Is the trip origin and destination at identical location the same? 1.Yes  2.No",
+
+    "NUMTRANS": "What's the number of transfers they took? Range from 0 to 10.",
+
+    "OBHUR": "What's the origin block group of the trip? Urban or rural indicator? C.Second City  R.Rural  S.Suburban  T.Small town  U.Urban",
+
+    "OBPPOPDN": "What's the category of population density (persons per square mile) in the census block group of the trip origin's location? 50.0-99  300.100-499  750.500-999  1500.1000-1999  3000.2000-3999  7000.4000-9999  17000.10000-24999  30000.25000-999999",
+    
+    "OBRESDN": "What's the category of housing units per square mile in the census block group of the trip origin's location? 50.0-99  300.100-499  750.500-999  1500.1000-1999  3000.2000-3999  7000.4000-9999  17000.10000-24999  30000.25000-999999",
+
+    "OTEEMPDN": "What's the category of workers per square mile in the census tract of the trip origin's location? 25.0-49  75.50-99  150.100-249  350.250-499  750.500-999  1500.1000-1999  3000.2000-3999  5000.4000-999999",
+
+    "OTHTNRNT": "What's the category of the percent of renter-occupied housing in the census tract of the trip origin's location? 0.0-4%  5.5-14%  20.15-24%  30.25-34%  40.35-44%  50.45-54%  60.55-64%  70.65-74%  80.75-84%  90.85-94%  95.95-100%",
+
+    "OTPPOPDN": "What's the category of population density (persons per square mile) in the census tract of the trip origin's location? 50.0-99  300.100-499  750.500-999  1500.1000-1999  3000.2000-3999  7000.4000-9999  17000.10000-24999  30000.25000-999999",
+
+    "OTRESDN": "What's the category of housing units per square mile in the census tract of the trip origin's location? 50.0-99  300.100-499  750.500-999  1500.1000-1999  3000.2000-3999  7000.4000-9999  17000.10000-24999  30000.25000-999999",
+
+    "PUBTRANS": "Were there any public transportations used on trip? 1.Yes  2.No",
+
+    "TRIPPURP": "What's the generalized purpose of trip, home-based and non-home based? HBO.Home-based trip (other)  HBSHOP.Home-based trip (shopping)  HBSOCREC.Home-based trip (social/recreational)  HBW.Home-based trip (work)  NHB.Not a home-based trip",
+
+    "TRPMILAD": "What's the trip distance in miles, adjusted for comparability to past surveys? ",
+
+    "TRPMILES": "What's the trip distance in miles, derived from route geometry returned by Google Maps API, or from reported loop-trip distance? ",
+
+    "TRPTRANS": "What's the trip mode derived? 1.Walk  2.Bicycle  3.Car  4.SUV  5.Van  6.Pickup truck  7.Golf cart / Segway  8.Motorcycle / Moped  9.RV (motor home, ATV, snowmobile)  10.School bus  11.Public or commuter bus  12.Paratransit / Dial-a-ride  13.Private / Charter / Tour / Shuttle bus  14.City-to-city bus (Greyhound, Megabus)  15.Amtrak / Commuter rail  16.Subway / elevated / light rail / street car  17.Taxi / limo (including Uber / Lyft)  18.Rental car (Including Zipcar / Car2Go)  19.Airplane  20.Boat / ferry / water taxi  97.Something Else",
+
+    "TRVLCMIN": "What's the trip duration in minutes? ",
+
+    "TRWAITTM": "What's the transit wait time in minutes? ",
+
+    "VMT_MILE": "What's the trip distance in miles for personally driven vehicle trips, derived from route geometry returned by Google Maps API? ",
+
+    "WHYFROM": "What's the trip origin purpose? 1.Regular home activities (chores, sleep)  2.Work from home (paid)  3.Work  4.Work-related meeting / trip  5.Volunteer activities (not paid)  6.Drop off /pick up someone  7.Change type of transportation  8.Attend school as a student  9.Attend child care  10.Attend adult care  11.Buy goods (groceries, clothes, appliances, gas)  12.Buy services (dry cleaners, banking, service a car, pet care)  13.Buy meals (go out for a meal, snack, carry-out)  14.Other general errands (post office, library)  15.Recreational activities (visit parks, movies, bars, museums)  16.Exercise (go for a jog, walk, walk the dog, go to the gym)  17.Visit friends or relatives  18.Health care visit (medical, dental, therapy)  19.Religious or other community activities  97.Something else ",
+
+    "WHYTO":  "What's the trip destination purpose? 1.Regular home activities (chores, sleep)  2.Work from home (paid)  3.Work  4.Work-related meeting / trip  5.Volunteer activities (not paid)  6.Drop off /pick up someone  7.Change type of transportation  8.Attend school as a student  9.Attend child care  10.Attend adult care  11.Buy goods (groceries, clothes, appliances, gas)  12.Buy services (dry cleaners, banking, service a car, pet care)  13.Buy meals (go out for a meal, snack, carry-out)  14.Other general errands (post office, library)  15.Recreational activities (visit parks, movies, bars, museums)  16.Exercise (go for a jog, walk, walk the dog, go to the gym)  17.Visit friends or relatives  18.Health care visit (medical, dental, therapy)  19.Religious or other community activities  97.Something else ",
+
+    "WHYTRP1S": "What's the trip purpose in summary? 1.Home  10.Work  20.School/Daycare/Religious activity  30.Medical/Dental services  40.Shopping/Errands  50.Social/Recreational  70.Transport someone  80.Meals  97.Something else ",
+
+    "WHYTRP90": "In which purpose does the travel day trip purpose consistent with 1990 NPTS design? 1.To/From Work  2.Work-Related Business  3.Shopping  4.Other Family/Personal Business  5.School/Church  6.Medical/Dentral  8.Visit Friends/Relatives  10.Other Social/Recreational  11.Other  99.Refused / Don't Know "
+
+}

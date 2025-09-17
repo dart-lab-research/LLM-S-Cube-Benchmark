@@ -1,0 +1,67 @@
+{
+"HHMAR":{
+    "HHSIZE":"The household consists of a total of {HHSIZE} members, ",
+    "NUMADLT":"including {NUMADLT} adults who are at least 18 years old. ",
+    "WRKCOUNT":"Within the household, there are {WRKCOUNT} worker(s). ",
+    "YOUNGCHILD":"Whether there are young children present in the household is indicated by {YOUNGCHILD}. ",
+    "HHRELATD":"{HHRELATD} related."
+},    
+"HHC":{
+    "HHFAMINC":"The household's income is categorized as {HHFAMINC}, ",
+    "HHVEHCNT":"and they own {HHVEHCNT} vehicles ",
+    "DRVRCNT":"with {DRVRCNT} members who can drive. ",
+    "HOMEOWN":"The household {HOMEOWN}. ",
+    "HH_HISP":"The household is {HH_HISP}. ",
+    "HH_RACE":"and their racial identity is {HH_RACE}.",
+    "LIF_CYC":"The life cycle classification for the household is {LIF_CYC}."
+},
+"HHRAC":{
+    "CDIVMSAR":"The household resides in a region categorized as {CDIVMSAR}. ",
+    "HBHUR":"In the census block group where the household is located {HBHUR}, ",
+    "HBHTNRNT":"the proportion of housing that is renter-occupied is {HBHTNRNT}, ",
+    "HBRESDN":"the housing unit density is {HBRESDN} units per square mile, ",
+    "HBPPOPDN":"and the population density is {HBPPOPDN} persons per square mile. ",
+    "HH_CBSA":"The household is part of the {HH_CBSA} CBSA and is located in {HHSTATE}. ",
+    "URBRUR":"The area where the household is situated is classified as {URBRUR} , ",
+    "URBAN":"with the urban area itself categorized by {URBAN}. ",
+    "URBANSIZE":"The size of the urban area where the home address is located is {URBANSIZE}."
+},
+"DTM":{
+    "BIKE":"For daily use, the individual rides a bike {BIKE} ",
+    "BIKE2SAVE":"and acknowledges {BIKE2SAVE} that using a bicycle can help reduce travel expenses. ",
+    "CAR":"{TPP} also use a car {CAR} ",
+    "BUS":"and take the bus {BUS}. ",
+    "TAXI":"Additionally, {TPP} make use of taxi services or ridesharing {TAXI}. ",
+    "WALK":"Walking is another mode of transportation used {WALK}, ",
+    "WALK2SAVE":"with an opinion that {WALK2SAVE} that walking can be a way to save on travel costs. ",
+    "TRAIN":"Furthermore, the individual travels by train {TRAIN} ",
+    "PARA":"and makes use of paratransit services {PARA}."
+},
+"ATPT":{
+    "PRICE":"The individual {PRICE} that the price of gasoline impacts travel decisions. ",
+    "PTRANS":"{TPP} also {PTRANS} that using public transportation helps alleviate the financial burden of travel. ",
+    "PLACE":"Furthermore, {PLACE} with the view that travel was perceived as a financial burden."
+}, 
+"TU":{
+    "SPHONE":"In terms of technology usage, {TPP} uses a smartphone to access the internet {SPHONE} ",
+    "TAB":"and a tablet to go online {TAB}. ",
+    "WEBUSE17":"In addition, {TPP} uses the Internet  {WEBUSE17}."
+
+},
+"MSA":{
+    "MSACAT":"The Metropolitan Statistical Area (MSA) where the household is located falls under the category of {MSACAT}, ",
+    "MSASIZE":"with a population size categorized as {MSASIZE} ",
+    "RAIL":"and {RAIL}. ",
+    "SAMPSTRAT":"The primary sampling stratum assignment for the household within the MSA is {SAMPSTRAT}."
+},
+"PPR":{
+    "HTPPOPDN":"Detailed demographic information about the household's place of residence includes a population density of {HTPPOPDN} persons per square mile,  ",
+    "HTRESDN":"with a housing unit density of {HTRESDN} units per square mile, ",
+    "HTEEMPDN":"and a worker density categorized as {HTEEMPDN}. ",
+    "HTHTNRNT":"The percentage of renter-occupied housing in the census tract of the household's home location is between {HTHTNRNT}."
+},
+"TI":{
+    "TDAYDATE":"The exact date of the travel day is {TDAYDATE} ",
+    "TRAVDAY":"and the day is {TRAVDAY}."
+}
+}

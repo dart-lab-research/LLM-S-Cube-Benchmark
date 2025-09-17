@@ -1,0 +1,112 @@
+```python
+import numpy as np
+import pandas as pd
+import json
+
+# Given distributions
+HHSEX = [0.5408, 0.4592]
+HHAGE = [0.0868, 0.1503, 0.1496, 0.1848, 0.2087, 0.1574, 0.0623]
+EMPLOYHH = [0.4706, 0.0868, 0.1166, 0.3261]
+
+state_postal = {
+    "Alabama": 0.0131,
+    "Alaska": 0.0168,
+    "Arizona": 0.0268,
+    "Arkansas": 0.0145,
+    "California": 0.0623,
+    "Colorado": 0.0195,
+    "Connecticut": 0.0159,
+    "Delaware": 0.0077,
+    "District of Columbia": 0.0119,
+    "Florida": 0.0354,
+    "Georgia": 0.0225,
+    "Hawaii": 0.0152,
+    "Idaho": 0.0146,
+    "Illinois": 0.0287,
+    "Indiana": 0.0216,
+    "Iowa": 0.0155,
+    "Kansas": 0.0112,
+    "Kentucky": 0.0231,
+    "Louisiana": 0.0168,
+    "Maine": 0.0121,
+    "Maryland": 0.0194,
+    "Massachusetts": 0.0298,
+    "Michigan": 0.0210,
+    "Minnesota": 0.0176,
+    "Mississippi": 0.0091,
+    "Missouri": 0.0160,
+    "Montana": 0.0093,
+    "Nebraska": 0.0102,
+    "Nevada": 0.0125,
+    "New Hampshire": 0.0095,
+    "New Jersey": 0.0247,
+    "New Mexico": 0.0096,
+    "New York": 0.0489,
+    "North Carolina": 0.0259,
+    "North Dakota": 0.0179,
+    "Ohio": 0.0183,
+    "Oklahoma": 0.0125,
+    "Oregon": 0.0169,
+    "Pennsylvania": 0.0334,
+    "Rhode Island": 0.0103,
+    "South Carolina": 0.0181,
+    "South Dakota": 0.0099,
+    "Tennessee": 0.0273,
+    "Texas": 0.0549,
+    "Utah": 0.0102,
+    "Vermont": 0.0132,
+    "Virginia": 0.0244,
+    "Washington": 0.0237,
+    "West Virginia": 0.0107,
+    "Wisconsin": 0.0193,
+    "Wyoming": 0.0103
+}
+
+# Define function to generate predictions for a batch
+def generate_batch():
+    # Randomly select demographic characteristics from the given distributions
+    sex = np.random.choice(['F', 'M'], p=HHSEX)
+    age_group = np.random.choice(['18-24', '25-34', '35-44', '45-54', '55-64', '65+'], p=HHAGE)
+    employment_status = np.random.choice(['Employed', 'Unemployed', 'Retired', 'Not in labor force'], p=EMPLOYHH)
+
+    # Randomly select a state from the given distribution
+    states = list(state_postal.keys())
+    state_probabilities = list(state_postal.values())
+    state_index = np.random.choice(len(states), p=state_probabilities)
+    state = states[state_index]
+
+    # Predict KWH, DOLLAREL, and TOTALDOL based on the selected demographic characteristics and state
+    if sex == 'F' and age_group == '18-24':
+        kwh = int(np.round(np.random.uniform(1000, 5000)))
+    elif sex == 'M' and age_group == '55-64':
+        kwh = int(np.round(np.random.uniform(2000, 8000)))
+    else:
+        kwh = int(np.round(np.random.uniform(1500, 6000)))
+
+    if employment_status == 'Employed' and state in ['California', 'New York']:
+        dollarel = np.round(kwh * 1.2, 2)
+    elif employment_status == 'Retired' and state in ['Florida', 'Texas']:
+        dollarel = np.round(kwh * 0.8, 2)
+    else:
+        dollarel = np.round(kwh * 1.0, 2)
+
+    if age_group == '18-24':
+        totaldol = np.round(dollarel + kwh * 50, 2)
+    elif age_group == '55-64' and employment_status == 'Retired':
+        totaldol = np.round(dollarel - kwh * 100, 2)
+    else:
+        totaldol = np.round(dollarel + kwh * 75, 2)
+
+    return [kwh, dollarel, totaldol]
+
+# Generate predictions for each batch
+predictions = []
+for i in range(100):
+    prediction = generate_batch()
+    predictions.append(prediction)
+    if (i+1) % 10 == 0:
+        print(f"Batch {i+1} complete")
+
+# Print the generated predictions as a JSON string
+print(json.dumps(predictions))
+```

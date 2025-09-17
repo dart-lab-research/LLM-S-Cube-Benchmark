@@ -1,0 +1,27 @@
+{
+  "BASIC_INFO": {
+    "Timestamp":  "The response was recorded at {Timestamp}. ",
+    "Gender":     "The respondent identifies as {Gender}, ",
+    "Country":    "living in {Country}, ",
+    "Occupation": "with the occupation being {Occupation}. ",
+    "self_employed": "Their self-employment status is indicated as {self_employed}."
+  },
+  "MENTAL_STATUS": {
+    "family_history":         "The respondent's family {family_history} a history of mental health disorders, ",
+    "treatment":              "and the respondent {treatment} mental health treatment. ",
+    "Days_Indoors":           "They spend an estimated {Days_Indoors} indoors each week, ",
+    "Growing_Stress":         "with the current level of stress described as {Growing_Stress}. ",
+    "Changes_Habits":         "Regarding changes in sleeping habits, the respondent {Changes_Habits}, ",
+    "Mental_Health_History":  "and personally {Mental_Health_History} a history of mental health disorders."
+  },
+  "EMOTIONAL_CONDITIONS": {
+    "Mood_Swings":       "The respondent experiences mood swings of {Mood_Swings} intensity, ",
+    "Coping_Struggles":  "and {Coping_Struggles} in coping with pressure or stress. ",
+    "Work_Interest":     "Regarding work motivation or interest, the respondent shows {Work_Interest}, ",
+    "Social_Weakness":   "and socially, they {Social_Weakness}."
+  },
+  "INTERVIEW_WILLINGNESS": {
+    "mental_health_interview": "Their willingness to be interviewed about mental health is {mental_health_interview}, ",
+    "care_options":            "and they are {care_options} regarding mental health care options."
+  }
+}

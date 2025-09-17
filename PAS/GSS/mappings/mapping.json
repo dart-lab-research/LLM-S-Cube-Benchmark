@@ -1,0 +1,168 @@
+{  
+    "race": {  
+        "1": "white",  
+        "2": "black or african american",  
+        "3": "american indian or alaska native",  
+        "4": "asian indian",  
+        "5": "chinese",  
+        "6": "filipino",  
+        "7": "japanese",  
+        "8": "korean",  
+        "9": "vietnamese",  
+        "10": "other asian",  
+        "12": "guamanian or chamorro",  
+        "13": "samoan",  
+        "14": "other pacific islander",  
+        "15": "some other race",  
+        "16": "hispanic"  
+    },  
+    "sex": {  
+        "1": "male",  
+        "2": "female"  
+    },
+    "marital": {
+        "1": "married",  
+        "2": "widowed",  
+        "3": "divorced",  
+        "4": "separated",  
+        "5": "never married",
+        "":"unknown"  
+    },
+    "region": {  
+        "1": "NEW ENGLAND",  
+        "2": "MIDDLE ATLANTIC",  
+        "3": "EAST NORTH CENTRAL",  
+        "4": "WEST NORTH CENTRAL",  
+        "5": "SOUTH ATLANTIC",  
+        "6": "EAST SOUTH CENTRAL",  
+        "7": "WEST SOUTH CENTRAL",  
+        "8": "MOUNTAIN",  
+        "9": "PACIFIC"  
+    },
+    "educ": {
+        "0": "No formal schooling",
+        "1": "1st grade",
+        "2": "2nd grade",
+        "3": "3rd grade",
+        "4": "4th grade",
+        "5": "5th grade",  
+        "6": "6th grade",  
+        "7": "7th grade",  
+        "8": "8th grade",  
+        "9": "9th grade",  
+        "10": "10th grade",  
+        "11": "11th grade",  
+        "12": "12th grade",  
+        "13": "1 year of college",  
+        "14": "2 years of college",  
+        "15": "3 years of college",  
+        "16": "4 years of college",  
+        "17": "5 years of college",  
+        "18": "6 years of college",  
+        "19": "7 years of college",  
+        "20": "8 years of college"  
+    },
+    "relig": {  
+        "1": "Protestant",  
+        "2": "Catholic",  
+        "3": "Jewish",  
+        "4": "None",  
+        "5": "Other",  
+        "6": "Buddhism",  
+        "7": "Hinduism",  
+        "8": "Other Eastern Religions",  
+        "9": "Muslim/Islam",  
+        "10": "Orthodox-Christian",  
+        "11": "Christian",  
+        "12": "Native American",  
+        "13": "Inter-Nondenominational"  
+    },
+    "income": {  
+        "9": "$10,000 to $14,999",  
+        "10": "$15,000 to $19,999",  
+        "11": "$20,000 to $24,999",  
+        "12": "$25,000 or more",
+        "":"unknown"
+    },
+    "wrkstat": {  
+        "1": "Working Full Time",  
+        "2": "Working Part Time",  
+        "3": "With a Job, But Not at Work Because of Temporary Illness, Vacation, Strike",  
+        "4": "Unemployed, Laid Off, Looking for Work",  
+        "5": "Retired",  
+        "6": "In School",  
+        "7": "Keeping House",  
+        "8": "Other"  
+    },
+    "occ10": {  
+        "10": "Management, Professional, and Related Occupations",  
+        "3600": "Service Occupations",  
+        "4700": "Sales and Office Occupations",  
+        "6005": "Natural Resources, Construction, and Maintenance Occupations",  
+        "7700": "Production, Transportation, and Material Moving Occupations",  
+        "9830": "Military Specific Occupations"  
+    },
+    "hhtype1": {  
+        "1": "Married Couple, No Children",  
+        "2": "Single Parent",  
+        "3": "Other Family, No Children",  
+        "4": "Single Adult",  
+        "5": "Cohabitating Couple, No Children",  
+        "6": "Non-Family, No Children",  
+        "8": "Unsure, No Children",  
+        "11": "Married Couple with Children",  
+        "13": "Other Family with Children",  
+        "15": "Cohabitating Couple with Children",  
+        "16": "Non-Family with Children",  
+        "18": "Unsure with Children"  
+    },
+    "polviews": {  
+        "1": "Extremely Liberal",  
+        "2": "Liberal",  
+        "3": "Slightly Liberal",  
+        "4": "Moderate, Middle of the Road",  
+        "5": "Slightly Conservative",  
+        "6": "Conservative",  
+        "7": "Extremely Conservative"  
+    },
+    "wrkmeangfl": {
+        "1": "Strongly agree",
+        "2": "Agree",
+        "3": "Disagree",
+        "4": "Strongly disagree"
+    },
+    "strmgtsup": {
+        "1": "Strongly disagree",
+        "2": "Disagree",
+        "3": "Neither agree nor disagree",
+        "4": "Agree",
+        "5": "Strongly agree"
+    },
+    "psysamephys": {
+        "1": "Strongly disagree",
+        "2": "Disagree",
+        "3": "Neither agree nor disagree",
+        "4": "Agree",
+        "5": "Strongly agree"
+    },
+    "allorglevel": {
+        "1": "Strongly disagree",
+        "2": "Disagree",
+        "3": "Neither agree nor disagree",
+        "4": "Agree",
+        "5": "Strongly agree"
+    },
+    "chngtime": {
+        "1": "often",
+        "2": "sometimes",
+        "3": "rarely",
+        "4": "never"
+    },
+    "mood": {
+        "1": "not at all",
+        "2": "several days",
+        "3": "more than half the days",
+        "4": "nearly every day"
+    }
+
+}

@@ -1,0 +1,144 @@
+{
+    
+    "HHFAMINC": {
+        "1": "The household income is less than $10,000.",
+        "2": "The household income is $10,000 to $14,999.",
+        "3": "The household income is $15,000 to $24,999.",
+        "4": "The household income is $25,000 to $34,999.",
+        "5": "The household income is $35,000 to $49,999.",
+        "6": "The household income is $50,000 to $74,999.",
+        "7": "The household income is $75,000 to $99,999.",
+        "8": "The household income is $100,000 to $124,999.",
+        "9": "The household income is $125,000 to $149,999.",
+        "10": "The household income is $150,000 to $199,999.",
+        "11": "The household income is $200,000 or more."
+    },
+    "HOMEOWN": {
+        "1": "The home is owned by a household member.",
+        "2": "The home is rented by a household member.",
+        "97": "The household neither owns nor rents the home."
+    },
+    "URBAN": {
+        "1": "The household is in an urban area.",
+        "2": "The household is in an urban cluster.",
+        "3": "The household is in an area surrounded by urban areas.",
+        "4": "The household is not in an urban area."
+    },
+    "HH_CBSA":{
+        "12060": "The Core Based Statistical Area (CBSA) for the home address of this household is Atlanta-Sandy Springs-Roswell, GA.",
+        "12420": "The Core Based Statistical Area (CBSA) for the home address of this household is Austin-Round Rock, TX.",
+        "12580": "The Core Based Statistical Area (CBSA) for the home address of this household is Baltimore-Columbia-Towson, MD.",
+        "13820": "The Core Based Statistical Area (CBSA) for the home address of this household is Birmingham-Hoover, AL.",
+        "14460": "The Core Based Statistical Area (CBSA) for the home address of this household is Boston-Cambridge-Newton, MA-NH.",
+        "15380": "The Core Based Statistical Area (CBSA) for the home address of this household is Buffalo-Cheektowaga-Niagara Falls, NY.",
+        "16740": "The Core Based Statistical Area (CBSA) for the home address of this household is Charlotte-Concord-Gastonia, NC-SC.",
+        "16980": "The Core Based Statistical Area (CBSA) for the home address of this household is Chicago-Naperville-Elgin, IL-IN-WI.",
+        "17140": "The Core Based Statistical Area (CBSA) for the home address of this household is Cincinnati, OH-KY-IN.",
+        "17460": "The Core Based Statistical Area (CBSA) for the home address of this household is Cleveland-Elyria, OH.",
+        "18140": "The Core Based Statistical Area (CBSA) for the home address of this household is Columbus, OH.",
+        "19100": "The Core Based Statistical Area (CBSA) for the home address of this household is Dallas-Fort Worth-Arlington, TX.",
+        "19740": "The Core Based Statistical Area (CBSA) for the home address of this household is Denver-Aurora-Lakewood, CO.",
+        "19820": "The Core Based Statistical Area (CBSA) for the home address of this household is Detroit-Warren-Dearborn, MI.",
+        "24340": "The Core Based Statistical Area (CBSA) for the home address of this household is Grand Rapids-Wyoming, MI.",
+        "25540": "The Core Based Statistical Area (CBSA) for the home address of this household is Hartford-West Hartford-East Hartford, CT.",
+        "26420": "The Core Based Statistical Area (CBSA) for the home address of this household is Houston-The Woodlands-Sugar Land, TX.",
+        "26900": "The Core Based Statistical Area (CBSA) for the home address of this household is Indianapolis-Carmel-Anderson, IN.",
+        "27260": "The Core Based Statistical Area (CBSA) for the home address of this household is Jacksonville, FL.",
+        "28140": "The Core Based Statistical Area (CBSA) for the home address of this household is Kansas City, MO-KS.",
+        "29820": "The Core Based Statistical Area (CBSA) for the home address of this household is Las Vegas-Henderson-Paradise, NV.",
+        "31080": "The Core Based Statistical Area (CBSA) for the home address of this household is Los Angeles-Long Beach-Anaheim, CA.",
+        "31140": "The Core Based Statistical Area (CBSA) for the home address of this household is Louisville/Jefferson County, KY-IN.",
+        "32820": "The Core Based Statistical Area (CBSA) for the home address of this household is Memphis, TN-MS-AR.",
+        "33100": "The Core Based Statistical Area (CBSA) for the home address of this household is Miami-Fort Lauderdale-West Palm Beach, FL.",
+        "33340": "The Core Based Statistical Area (CBSA) for the home address of this household is Milwaukee-Waukesha-West Allis, WI.",
+        "33460": "The Core Based Statistical Area (CBSA) for the home address of this household is Minneapolis-St, Paul-Bloomington, MN-WI.",
+        "34980": "The Core Based Statistical Area (CBSA) for the home address of this household is Nashville-Davidson--Murfreesboro--Franklin, TN.",
+        "35380": "The Core Based Statistical Area (CBSA) for the home address of this household is New Orleans-Metairie, LA.",
+        "35620": "The Core Based Statistical Area (CBSA) for the home address of this household is New York-Newark-Jersey City, NY-NJ-PA.",
+        "36420": "The Core Based Statistical Area (CBSA) for the home address of this household is Oklahoma City, OK.",
+        "36740": "The Core Based Statistical Area (CBSA) for the home address of this household is Orlando-Kissimmee-Sanford, FL.",
+        "37980": "The Core Based Statistical Area (CBSA) for the home address of this household is Philadelphia-Camden-Wilmington, PA-NJ-DE-MD.",
+        "38060": "The Core Based Statistical Area (CBSA) for the home address of this household is Phoenix-Mesa-Scottsdale, AZ.",
+        "38300": "The Core Based Statistical Area (CBSA) for the home address of this household is Pittsburgh, PA.",
+        "38900": "The Core Based Statistical Area (CBSA) for the home address of this household is Portland-Vancouver-Hillsboro, OR-WA.",
+        "39300": "The Core Based Statistical Area (CBSA) for the home address of this household is Providence-Warwick, RI-MA.",
+        "39580": "The Core Based Statistical Area (CBSA) for the home address of this household is Raleigh, NC.",
+        "40060": "The Core Based Statistical Area (CBSA) for the home address of this household is Richmond, VA.",
+        "40140": "The Core Based Statistical Area (CBSA) for the home address of this household is Riverside-San Bernardino-Ontario, CA.",
+        "40380": "The Core Based Statistical Area (CBSA) for the home address of this household is Rochester, NY.",
+        "40900": "The Core Based Statistical Area (CBSA) for the home address of this household is Sacramento--Roseville--Arden-Arcade, CA.",
+        "41180": "The Core Based Statistical Area (CBSA) for the home address of this household is St. Louis, MO-IL.",
+        "41620": "The Core Based Statistical Area (CBSA) for the home address of this household is Salt Lake City, UT.",
+        "41700": "The Core Based Statistical Area (CBSA) for the home address of this household is San Antonio-New Braunfels, TX.",
+        "41740": "The Core Based Statistical Area (CBSA) for the home address of this household is San Diego-Carlsbad, CA.",
+        "41860": "The Core Based Statistical Area (CBSA) for the home address of this household is San Francisco-Oakland-Hayward, CA.",
+        "41940": "The Core Based Statistical Area (CBSA) for the home address of this household is San Jose-Sunnyvale-Santa Clara, CA.",
+        "42660": "The Core Based Statistical Area (CBSA) for the home address of this household is Seattle-Tacoma-Bellevue, WA.",
+        "45300": "The Core Based Statistical Area (CBSA) for the home address of this household is Tampa-St. Petersburg-Clearwater, FL.",
+        "47260": "The Core Based Statistical Area (CBSA) for the home address of this household is Virginia Beach-Norfolk-Newport News, VA-NC.",
+        "47900": "The Core Based Statistical Area (CBSA) for the home address of this household is Washington-Arlington-Alexandria, DC-VA-MD-WV.",
+        "XXXXX": "The Core Based Statistical Area (CBSA) for the home address of this household is Suppressed, in an MSA of less than 1 million."
+    },
+    
+    "DRIVER": {
+        "1": "This person is a driver.",
+        "2": "This person is not a driver."
+    },
+    "EDUC":{
+        "1": "This person is less than a high school graduate.",
+        "2": "This person is high school graduate or GED.",
+        "3": "This person has some college or associates degree.",
+        "4": "This person has bachelor's degree.",
+        "5": "This person has graduate degree or professional degree."        
+    },
+    "R_RACE": {
+        "1": "This person's race is White.",
+        "2": "This person's race is Black or African American.",
+        "3": "This person's race is Asian.",
+        "4": "This person's race is American Indian or Alaska Native.",
+        "5": "This person's race is Native Hawaiian or Pacific Islander.",
+        "6": "This person has selected multiple races.",
+        "97": "This person's race is classified as other."
+    },
+    "R_SEX_IMP": {
+        "1": "This person is a Male.",
+        "2": "This person is a Female."
+    },
+    "WORKER":{
+        "1": "This person is a worker.",
+        "2": "This person is not a worker."
+    },
+    
+    "TRAVDAY": {
+        "1": "The travel day is Sunday.",
+        "2": "The travel day is Monday.",
+        "3": "The travel day is Tuesday.",
+        "4": "The travel day is Wednesday.",
+        "5": "The travel day is Thursday.",
+        "6": "The travel day is Friday.",
+        "7": "The travel day is Saturday."
+    },
+    "TRPTRANS":{
+        "1": "The trip mode is walking.",
+        "2": "The trip mode is by private vehicle.",
+        "3": "The trip mode is by bicycle, motorcycle, or moped.",
+        "4": "The trip mode is by public bus.",
+        "5": "The trip mode is by intercity bus, Amtrak, or commuter rail.",
+        "6": "The trip mode is by subway, elevated train, light rail, or streetcar.",
+        "7": "The trip mode is by taxi or rental car.",
+        "8": "The trip mode is by airplane.",
+        "9": "The trip mode is by boat, ferry, or water taxi.",
+        "10": "The trip mode is \"other\"."
+    },
+
+
+    "HHSIZE": "The total number of people in the household is ",
+    "YOUNGCHILD": "The count of household members under 5 years old is ",
+    "HHVEHCNT": "The total number of vehicles in the household is ",
+
+    "R_AGE": "This person's age is ",
+
+    "GASPRICE": "The price of the gasoline (in cents) on the travel day is ",
+    "TDAYDATE": "The date of the travel day is "
+    
+}

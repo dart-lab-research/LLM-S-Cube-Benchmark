@@ -1,0 +1,44 @@
+{
+"HEAD":{
+    "STRTTIME":"{TPP} started the trip at {STRTTIME}. ",
+    "TDWKND":"That day {TDWKND}."
+},
+"ESD":{
+    "DBHUR":"The socio-economic profile of the trip destination indicates that it is situated in a {DBHUR}, ",
+    "DBPPOPDN":"where have {DBPPOPDN} persons reside per square mile within the census block group. ",
+    "DBRESDN":"In addition, the density of housing units in this block group is {DBRESDN}.",
+    "DTPPOPDN":"When considering the broader census tract, the population density increases to {DTPPOPDN} individuals per square mile, ",
+    "DTRESDN":"and there are {DTRESDN} housing units per square mile. ",
+    "DBHTNRNT":"The percentage of renter-occupied housing in the destination's block group is {DBHTNRNT}, ",
+    "DTHTNRNT":"while in the tract level, it is {DTHTNRNT}. ",
+    "DTEEMPDN":"Furthermore, the employment density, measured by the number of workers per square mile in the census tract of the trip destination, is {DTEEMPDN}. "
+},
+"MTT":{
+    "DROP_PRK":"At the beginning of the trip, {TPP} {DROP_PRK} ",
+    "DRVR_FLG":"{TPP} {DRVR_FLG} the driver, ",
+    "HHMEMDRV":"while having {HHMEMDRV} family member as driver, ",
+    "PSGR_FLG":"and {TPP} {PSGR_FLG} as a passenger. ",
+    "NUMONTRP":"The trip involved {NUMONTRP} people, ",
+    "HH_ONTD":"including {HH_ONTD} household members ",
+    "NONHHCNT":"and {NONHHCNT} non-household members. ",
+    "TRPHHVEH":"They {TRPHHVEH} their own household vehicle on the trip."
+},
+"OI":{
+    "GASPRICE":"The cost of gasoline for the day of travel was {GASPRICE} cents, ",
+    "DWELTIME":"and the individual spent {DWELTIME} minutes at the destination before continuing their day."
+},
+"TW":{
+    "TRACCTM":"For the leg of the journey to the public transit station, the {TPP} spent {TRACCTM} minutes,and used the method of ",
+    "TRACC_BUS":"{TRACC_BUS}",
+    "TRACC_CRL":"{TRACC_CRL}",
+    "TRACC_SUB":"{TRACC_SUB}",
+    "TRACC_WLK":"{TRACC_WLK}",
+    "TRACC_POV":"{TRACC_POV}. ",
+    "TREGRTM":"After reaching the destination via public transit, {TPP} traveled the remaining distance, taking {TREGRTM} minutes,used the method of",
+    "TREGR_BUS":" {TREGR_BUS}",
+    "TREGR_CRL":"{TREGR_CRL}",
+    "TREGR_SUB":"{TREGR_SUB}",
+    "TREGR_WLK":"{TREGR_WLK}",
+    "TREGR_POV":"{TREGR_POV}."
+}
+}

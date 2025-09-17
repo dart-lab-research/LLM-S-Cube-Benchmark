@@ -1,0 +1,588 @@
+Trell is an Indian social media and content creation app that allows users to create and share video content, focusing on travel, lifestyle, and various experiences. Now you are role-playing this person based on the above information.This one has an age group 1, who lives in a 2.
+    This one's average watch time completion rate of the videos is 0.463330487,
+      and the average time spent on a video in seconds is 34.16.
+      Average duration of the videos that this person has watched till date is 53.99609091."
+    This one comments with very few words(normalized score 0.0, in range of [0,0.2]), while at the same time watches fewer videos(normalized score 0.2, in range of [0.2,0.4]). Besides, this person and very few videos on weekends per day(normalized score 0.041666667, in range of [0,0.2])
+According to the information, can you help me choose the video playback habits of this person on weekdays? 
+                    Your response should consist of just the option A,B,C,D,E or F without any additional text, explanation or even a space letter(Here is an example of a required reponse that you should follow: A) 
+                        A. Watch very few videos [0-0.2].
+                        B. Watch fewer videos [0.2-0.4].
+                        C. Watch some videos [0.4-0.6].
+                        D. Watch more videos [0.6,0.8].
+                        E. Watch lots of videos [0.8,1.0].
+                        F. Watch massive videos [1.0,...].
+                    
+Trell is an Indian social media and content creation app that allows users to create and share video content, focusing on travel, lifestyle, and various experiences. Now you are role-playing this person based on the above information.This one has an age group 2, who lives in a 2.
+    This one's average watch time completion rate of the videos is 0.429467752,
+      and the average time spent on a video in seconds is 15.28571429.
+      Average duration of the videos that this person has watched till date is 96.231625."
+    This one comments with very few words(normalized score 0.153846154, in range of [0,0.2]), while at the same time watches very few videos(normalized score 0.093220339, in range of [0,0.2]). Besides, this person and very few videos on weekends per day(normalized score 0.012711864, in range of [0,0.2])
+According to the information, can you help me choose the video playback habits of this person on weekdays? 
+                    Your response should consist of just the option A,B,C,D,E or F without any additional text, explanation or even a space letter(Here is an example of a required reponse that you should follow: A) 
+                        A. Watch very few videos [0-0.2].
+                        B. Watch fewer videos [0.2-0.4].
+                        C. Watch some videos [0.4-0.6].
+                        D. Watch more videos [0.6,0.8].
+                        E. Watch lots of videos [0.8,1.0].
+                        F. Watch massive videos [1.0,...].
+                    
+Trell is an Indian social media and content creation app that allows users to create and share video content, focusing on travel, lifestyle, and various experiences. Now you are role-playing this person based on the above information.This one has an age group 1, who lives in a 2.
+    This one's average watch time completion rate of the videos is 0.341657271,
+      and the average time spent on a video in seconds is 22.
+      Average duration of the videos that this person has watched till date is 83.0514147."
+    This one comments with very few words(normalized score 0.0, in range of [0,0.2]), while at the same time watches very few videos(normalized score 0.002785515, in range of [0,0.2]). Besides, this person and very few videos on weekends per day(normalized score 0.0, in range of [0,0.2])
+According to the information, can you help me choose the video playback habits of this person on weekdays? 
+                    Your response should consist of just the option A,B,C,D,E or F without any additional text, explanation or even a space letter(Here is an example of a required reponse that you should follow: A) 
+                        A. Watch very few videos [0-0.2].
+                        B. Watch fewer videos [0.2-0.4].
+                        C. Watch some videos [0.4-0.6].
+                        D. Watch more videos [0.6,0.8].
+                        E. Watch lots of videos [0.8,1.0].
+                        F. Watch massive videos [1.0,...].
+                    
+Trell is an Indian social media and content creation app that allows users to create and share video content, focusing on travel, lifestyle, and various experiences. Now you are role-playing this person based on the above information.This one has an age group 1, who lives in a 2.
+    This one's average watch time completion rate of the videos is 0.00573526,
+      and the average time spent on a video in seconds is 3.
+      Average duration of the videos that this person has watched till date is 523.08."
+    This one comments with very few words(normalized score 0.0, in range of [0,0.2]), while at the same time watches very few videos(normalized score 0.008403361, in range of [0,0.2]). Besides, this person and very few videos on weekends per day(normalized score 0.0, in range of [0,0.2])
+According to the information, can you help me choose the video playback habits of this person on weekdays? 
+                    Your response should consist of just the option A,B,C,D,E or F without any additional text, explanation or even a space letter(Here is an example of a required reponse that you should follow: A) 
+                        A. Watch very few videos [0-0.2].
+                        B. Watch fewer videos [0.2-0.4].
+                        C. Watch some videos [0.4-0.6].
+                        D. Watch more videos [0.6,0.8].
+                        E. Watch lots of videos [0.8,1.0].
+                        F. Watch massive videos [1.0,...].
+                    
+Trell is an Indian social media and content creation app that allows users to create and share video content, focusing on travel, lifestyle, and various experiences. Now you are role-playing this person based on the above information.This one has an age group 1, who lives in a 2.
+    This one's average watch time completion rate of the videos is 0.456548797,
+      and the average time spent on a video in seconds is 12.33333333.
+      Average duration of the videos that this person has watched till date is 53.76664."
+    This one comments with very few words(normalized score 0.0, in range of [0,0.2]), while at the same time watches fewer videos(normalized score 0.204918033, in range of [0.2,0.4]). Besides, this person and very few videos on weekends per day(normalized score 0.0, in range of [0,0.2])
+According to the information, can you help me choose the video playback habits of this person on weekdays? 
+                    Your response should consist of just the option A,B,C,D,E or F without any additional text, explanation or even a space letter(Here is an example of a required reponse that you should follow: A) 
+                        A. Watch very few videos [0-0.2].
+                        B. Watch fewer videos [0.2-0.4].
+                        C. Watch some videos [0.4-0.6].
+                        D. Watch more videos [0.6,0.8].
+                        E. Watch lots of videos [0.8,1.0].
+                        F. Watch massive videos [1.0,...].
+                    
+Trell is an Indian social media and content creation app that allows users to create and share video content, focusing on travel, lifestyle, and various experiences. Now you are role-playing this person based on the above information.This one has an age group 1, who lives in a 2.
+    This one's average watch time completion rate of the videos is 0.306116168,
+      and the average time spent on a video in seconds is 7.2.
+      Average duration of the videos that this person has watched till date is 31.36955556."
+    This one comments with very few words(normalized score 0.0, in range of [0,0.2]), while at the same time watches very few videos(normalized score 0.072580645, in range of [0,0.2]). Besides, this person and very few videos on weekends per day(normalized score 0.080645161, in range of [0,0.2])
+According to the information, can you help me choose the video playback habits of this person on weekdays? 
+                    Your response should consist of just the option A,B,C,D,E or F without any additional text, explanation or even a space letter(Here is an example of a required reponse that you should follow: A) 
+                        A. Watch very few videos [0-0.2].
+                        B. Watch fewer videos [0.2-0.4].
+                        C. Watch some videos [0.4-0.6].
+                        D. Watch more videos [0.6,0.8].
+                        E. Watch lots of videos [0.8,1.0].
+                        F. Watch massive videos [1.0,...].
+                    
+Trell is an Indian social media and content creation app that allows users to create and share video content, focusing on travel, lifestyle, and various experiences. Now you are role-playing this person based on the above information.This one has an age group 1, who lives in a 2.
+    This one's average watch time completion rate of the videos is 0.463330487,
+      and the average time spent on a video in seconds is 34.16.
+      Average duration of the videos that this person has watched till date is 53.99609091."
+    This one comments with very few words(normalized score 0.0, in range of [0,0.2]), while at the same time watches fewer videos(normalized score 0.2, in range of [0.2,0.4]). Besides, this person and very few videos on weekends per day(normalized score 0.041666667, in range of [0,0.2])
+According to the information, can you help me choose the video playback habits of this person on weekdays? 
+                    Your response should consist of just the option A,B,C,D,E or F without any additional text, explanation or even a space letter(Here is an example of a required reponse that you should follow: A) 
+                        A. Watch very few videos [0-0.2].
+                        B. Watch fewer videos [0.2-0.4].
+                        C. Watch some videos [0.4-0.6].
+                        D. Watch more videos [0.6,0.8].
+                        E. Watch lots of videos [0.8,1.0].
+                        F. Watch massive videos [1.0,...].
+                    
+Trell is an Indian social media and content creation app that allows users to create and share video content, focusing on travel, lifestyle, and various experiences. Now you are role-playing this person based on the above information.This one has an age group 2, who lives in a 2.
+    This one's average watch time completion rate of the videos is 0.429467752,
+      and the average time spent on a video in seconds is 15.28571429.
+      Average duration of the videos that this person has watched till date is 96.231625."
+    This one comments with very few words(normalized score 0.153846154, in range of [0,0.2]), while at the same time watches very few videos(normalized score 0.093220339, in range of [0,0.2]). Besides, this person and very few videos on weekends per day(normalized score 0.012711864, in range of [0,0.2])
+According to the information, can you help me choose the video playback habits of this person on weekdays? 
+                    Your response should consist of just the option A,B,C,D,E or F without any additional text, explanation or even a space letter(Here is an example of a required reponse that you should follow: A) 
+                        A. Watch very few videos [0-0.2].
+                        B. Watch fewer videos [0.2-0.4].
+                        C. Watch some videos [0.4-0.6].
+                        D. Watch more videos [0.6,0.8].
+                        E. Watch lots of videos [0.8,1.0].
+                        F. Watch massive videos [1.0,...].
+                    
+Trell is an Indian social media and content creation app that allows users to create and share video content, focusing on travel, lifestyle, and various experiences. Now you are role-playing this person based on the above information.This one has an age group 1, who lives in a 2.
+    This one's average watch time completion rate of the videos is 0.341657271,
+      and the average time spent on a video in seconds is 22.
+      Average duration of the videos that this person has watched till date is 83.0514147."
+    This one comments with very few words(normalized score 0.0, in range of [0,0.2]), while at the same time watches very few videos(normalized score 0.002785515, in range of [0,0.2]). Besides, this person and very few videos on weekends per day(normalized score 0.0, in range of [0,0.2])
+According to the information, can you help me choose the video playback habits of this person on weekdays? 
+                    Your response should consist of just the option A,B,C,D,E or F without any additional text, explanation or even a space letter(Here is an example of a required reponse that you should follow: A) 
+                        A. Watch very few videos [0-0.2].
+                        B. Watch fewer videos [0.2-0.4].
+                        C. Watch some videos [0.4-0.6].
+                        D. Watch more videos [0.6,0.8].
+                        E. Watch lots of videos [0.8,1.0].
+                        F. Watch massive videos [1.0,...].
+                    
+Trell is an Indian social media and content creation app that allows users to create and share video content, focusing on travel, lifestyle, and various experiences. Now you are role-playing this person based on the above information.This one has an age group 1, who lives in a 2.
+    This one's average watch time completion rate of the videos is 0.00573526,
+      and the average time spent on a video in seconds is 3.
+      Average duration of the videos that this person has watched till date is 523.08."
+    This one comments with very few words(normalized score 0.0, in range of [0,0.2]), while at the same time watches very few videos(normalized score 0.008403361, in range of [0,0.2]). Besides, this person and very few videos on weekends per day(normalized score 0.0, in range of [0,0.2])
+According to the information, can you help me choose the video playback habits of this person on weekdays? 
+                    Your response should consist of just the option A,B,C,D,E or F without any additional text, explanation or even a space letter(Here is an example of a required reponse that you should follow: A) 
+                        A. Watch very few videos [0-0.2].
+                        B. Watch fewer videos [0.2-0.4].
+                        C. Watch some videos [0.4-0.6].
+                        D. Watch more videos [0.6,0.8].
+                        E. Watch lots of videos [0.8,1.0].
+                        F. Watch massive videos [1.0,...].
+                    
+Trell is an Indian social media and content creation app that allows users to create and share video content, focusing on travel, lifestyle, and various experiences. Now you are role-playing this person based on the above information.This one has an age group 1, who lives in a 2.
+    This one's average watch time completion rate of the videos is 0.456548797,
+      and the average time spent on a video in seconds is 12.33333333.
+      Average duration of the videos that this person has watched till date is 53.76664."
+    This one comments with very few words(normalized score 0.0, in range of [0,0.2]), while at the same time watches fewer videos(normalized score 0.204918033, in range of [0.2,0.4]). Besides, this person and very few videos on weekends per day(normalized score 0.0, in range of [0,0.2])
+According to the information, can you help me choose the video playback habits of this person on weekdays? 
+                    Your response should consist of just the option A,B,C,D,E or F without any additional text, explanation or even a space letter(Here is an example of a required reponse that you should follow: A) 
+                        A. Watch very few videos [0-0.2].
+                        B. Watch fewer videos [0.2-0.4].
+                        C. Watch some videos [0.4-0.6].
+                        D. Watch more videos [0.6,0.8].
+                        E. Watch lots of videos [0.8,1.0].
+                        F. Watch massive videos [1.0,...].
+                    
+Trell is an Indian social media and content creation app that allows users to create and share video content, focusing on travel, lifestyle, and various experiences. Now you are role-playing this person based on the above information.This one has an age group 1, who lives in a 2.
+    This one's average watch time completion rate of the videos is 0.306116168,
+      and the average time spent on a video in seconds is 7.2.
+      Average duration of the videos that this person has watched till date is 31.36955556."
+    This one comments with very few words(normalized score 0.0, in range of [0,0.2]), while at the same time watches very few videos(normalized score 0.072580645, in range of [0,0.2]). Besides, this person and very few videos on weekends per day(normalized score 0.080645161, in range of [0,0.2])
+According to the information, can you help me choose the video playback habits of this person on weekdays? 
+                    Your response should consist of just the option A,B,C,D,E or F without any additional text, explanation or even a space letter(Here is an example of a required reponse that you should follow: A) 
+                        A. Watch very few videos [0-0.2].
+                        B. Watch fewer videos [0.2-0.4].
+                        C. Watch some videos [0.4-0.6].
+                        D. Watch more videos [0.6,0.8].
+                        E. Watch lots of videos [0.8,1.0].
+                        F. Watch massive videos [1.0,...].
+                    
+Trell is an Indian social media and content creation app that allows users to create and share video content, focusing on travel, lifestyle, and various experiences. Now you are role-playing this person based on the above information.This one has an age group 1, who lives in a 2.
+    This one's average watch time completion rate of the videos is 0.463330487,
+      and the average time spent on a video in seconds is 34.16.
+      Average duration of the videos that this person has watched till date is 53.99609091."
+    This one comments with very few words(normalized score 0.0, in range of [0,0.2]), while at the same time watches fewer videos(normalized score 0.2, in range of [0.2,0.4]). Besides, this person and very few videos on weekends per day(normalized score 0.041666667, in range of [0,0.2])
+According to the information, can you help me choose the video playback habits of this person on weekdays? 
+                    Your response should consist of just the option A,B,C,D,E or F without any additional text, explanation or even a space letter(Here is an example of a required reponse that you should follow: A) 
+                        A. Watch very few videos [0-0.2].
+                        B. Watch fewer videos [0.2-0.4].
+                        C. Watch some videos [0.4-0.6].
+                        D. Watch more videos [0.6,0.8].
+                        E. Watch lots of videos [0.8,1.0].
+                        F. Watch massive videos [1.0,...].
+                    
+Trell is an Indian social media and content creation app that allows users to create and share video content, focusing on travel, lifestyle, and various experiences. Now you are role-playing this person based on the above information.This one has an age group 2, who lives in a 2.
+    This one's average watch time completion rate of the videos is 0.429467752,
+      and the average time spent on a video in seconds is 15.28571429.
+      Average duration of the videos that this person has watched till date is 96.231625."
+    This one comments with very few words(normalized score 0.153846154, in range of [0,0.2]), while at the same time watches very few videos(normalized score 0.093220339, in range of [0,0.2]). Besides, this person and very few videos on weekends per day(normalized score 0.012711864, in range of [0,0.2])
+According to the information, can you help me choose the video playback habits of this person on weekdays? 
+                    Your response should consist of just the option A,B,C,D,E or F without any additional text, explanation or even a space letter(Here is an example of a required reponse that you should follow: A) 
+                        A. Watch very few videos [0-0.2].
+                        B. Watch fewer videos [0.2-0.4].
+                        C. Watch some videos [0.4-0.6].
+                        D. Watch more videos [0.6,0.8].
+                        E. Watch lots of videos [0.8,1.0].
+                        F. Watch massive videos [1.0,...].
+                    
+Trell is an Indian social media and content creation app that allows users to create and share video content, focusing on travel, lifestyle, and various experiences. Now you are role-playing this person based on the above information.This one has an age group 1, who lives in a 2.
+    This one's average watch time completion rate of the videos is 0.341657271,
+      and the average time spent on a video in seconds is 22.
+      Average duration of the videos that this person has watched till date is 83.0514147."
+    This one comments with very few words(normalized score 0.0, in range of [0,0.2]), while at the same time watches very few videos(normalized score 0.002785515, in range of [0,0.2]). Besides, this person and very few videos on weekends per day(normalized score 0.0, in range of [0,0.2])
+According to the information, can you help me choose the video playback habits of this person on weekdays? 
+                    Your response should consist of just the option A,B,C,D,E or F without any additional text, explanation or even a space letter(Here is an example of a required reponse that you should follow: A) 
+                        A. Watch very few videos [0-0.2].
+                        B. Watch fewer videos [0.2-0.4].
+                        C. Watch some videos [0.4-0.6].
+                        D. Watch more videos [0.6,0.8].
+                        E. Watch lots of videos [0.8,1.0].
+                        F. Watch massive videos [1.0,...].
+                    
+Trell is an Indian social media and content creation app that allows users to create and share video content, focusing on travel, lifestyle, and various experiences. Now you are role-playing this person based on the above information.This one has an age group 1, who lives in a 2.
+    This one's average watch time completion rate of the videos is 0.00573526,
+      and the average time spent on a video in seconds is 3.
+      Average duration of the videos that this person has watched till date is 523.08."
+    This one comments with very few words(normalized score 0.0, in range of [0,0.2]), while at the same time watches very few videos(normalized score 0.008403361, in range of [0,0.2]). Besides, this person and very few videos on weekends per day(normalized score 0.0, in range of [0,0.2])
+According to the information, can you help me choose the video playback habits of this person on weekdays? 
+                    Your response should consist of just the option A,B,C,D,E or F without any additional text, explanation or even a space letter(Here is an example of a required reponse that you should follow: A) 
+                        A. Watch very few videos [0-0.2].
+                        B. Watch fewer videos [0.2-0.4].
+                        C. Watch some videos [0.4-0.6].
+                        D. Watch more videos [0.6,0.8].
+                        E. Watch lots of videos [0.8,1.0].
+                        F. Watch massive videos [1.0,...].
+                    
+Trell is an Indian social media and content creation app that allows users to create and share video content, focusing on travel, lifestyle, and various experiences. Now you are role-playing this person based on the above information.This one has an age group 1, who lives in a 2.
+    This one's average watch time completion rate of the videos is 0.456548797,
+      and the average time spent on a video in seconds is 12.33333333.
+      Average duration of the videos that this person has watched till date is 53.76664."
+    This one comments with very few words(normalized score 0.0, in range of [0,0.2]), while at the same time watches fewer videos(normalized score 0.204918033, in range of [0.2,0.4]). Besides, this person and very few videos on weekends per day(normalized score 0.0, in range of [0,0.2])
+According to the information, can you help me choose the video playback habits of this person on weekdays? 
+                    Your response should consist of just the option A,B,C,D,E or F without any additional text, explanation or even a space letter(Here is an example of a required reponse that you should follow: A) 
+                        A. Watch very few videos [0-0.2].
+                        B. Watch fewer videos [0.2-0.4].
+                        C. Watch some videos [0.4-0.6].
+                        D. Watch more videos [0.6,0.8].
+                        E. Watch lots of videos [0.8,1.0].
+                        F. Watch massive videos [1.0,...].
+                    
+Trell is an Indian social media and content creation app that allows users to create and share video content, focusing on travel, lifestyle, and various experiences. Now you are role-playing this person based on the above information.This one has an age group 1, who lives in a 2.
+    This one's average watch time completion rate of the videos is 0.306116168,
+      and the average time spent on a video in seconds is 7.2.
+      Average duration of the videos that this person has watched till date is 31.36955556."
+    This one comments with very few words(normalized score 0.0, in range of [0,0.2]), while at the same time watches very few videos(normalized score 0.072580645, in range of [0,0.2]). Besides, this person and very few videos on weekends per day(normalized score 0.080645161, in range of [0,0.2])
+According to the information, can you help me choose the video playback habits of this person on weekdays? 
+                    Your response should consist of just the option A,B,C,D,E or F without any additional text, explanation or even a space letter(Here is an example of a required reponse that you should follow: A) 
+                        A. Watch very few videos [0-0.2].
+                        B. Watch fewer videos [0.2-0.4].
+                        C. Watch some videos [0.4-0.6].
+                        D. Watch more videos [0.6,0.8].
+                        E. Watch lots of videos [0.8,1.0].
+                        F. Watch massive videos [1.0,...].
+                    
+Trell is an Indian social media and content creation app that allows users to create and share video content, focusing on travel, lifestyle, and various experiences. Now you are role-playing this person based on the above information.This one has an age group 1, who lives in a 2.
+    This one's average watch time completion rate of the videos is 0.463330487,
+      and the average time spent on a video in seconds is 34.16.
+      Average duration of the videos that this person has watched till date is 53.99609091."
+    This one comments with very few words(normalized score 0.0, in range of [0,0.2]), while at the same time watches fewer videos(normalized score 0.2, in range of [0.2,0.4]). Besides, this person and very few videos on weekends per day(normalized score 0.041666667, in range of [0,0.2])
+According to the information, can you help me choose the video playback habits of this person on weekdays? 
+                    Your response should consist of just the option A,B,C,D,E or F without any additional text, explanation or even a space letter(Here is an example of a required reponse that you should follow: A) 
+                        A. Watch very few videos [0-0.2].
+                        B. Watch fewer videos [0.2-0.4].
+                        C. Watch some videos [0.4-0.6].
+                        D. Watch more videos [0.6,0.8].
+                        E. Watch lots of videos [0.8,1.0].
+                        F. Watch massive videos [1.0,...].
+                    
+Trell is an Indian social media and content creation app that allows users to create and share video content, focusing on travel, lifestyle, and various experiences. Now you are role-playing this person based on the above information.This one has an age group 2, who lives in a 2.
+    This one's average watch time completion rate of the videos is 0.429467752,
+      and the average time spent on a video in seconds is 15.28571429.
+      Average duration of the videos that this person has watched till date is 96.231625."
+    This one comments with very few words(normalized score 0.153846154, in range of [0,0.2]), while at the same time watches very few videos(normalized score 0.093220339, in range of [0,0.2]). Besides, this person and very few videos on weekends per day(normalized score 0.012711864, in range of [0,0.2])
+According to the information, can you help me choose the video playback habits of this person on weekdays? 
+                    Your response should consist of just the option A,B,C,D,E or F without any additional text, explanation or even a space letter(Here is an example of a required reponse that you should follow: A) 
+                        A. Watch very few videos [0-0.2].
+                        B. Watch fewer videos [0.2-0.4].
+                        C. Watch some videos [0.4-0.6].
+                        D. Watch more videos [0.6,0.8].
+                        E. Watch lots of videos [0.8,1.0].
+                        F. Watch massive videos [1.0,...].
+                    
+Trell is an Indian social media and content creation app that allows users to create and share video content, focusing on travel, lifestyle, and various experiences. Now you are role-playing this person based on the above information.This one has an age group 1, who lives in a 2.
+    This one's average watch time completion rate of the videos is 0.341657271,
+      and the average time spent on a video in seconds is 22.
+      Average duration of the videos that this person has watched till date is 83.0514147."
+    This one comments with very few words(normalized score 0.0, in range of [0,0.2]), while at the same time watches very few videos(normalized score 0.002785515, in range of [0,0.2]). Besides, this person and very few videos on weekends per day(normalized score 0.0, in range of [0,0.2])
+According to the information, can you help me choose the video playback habits of this person on weekdays? 
+                    Your response should consist of just the option A,B,C,D,E or F without any additional text, explanation or even a space letter(Here is an example of a required reponse that you should follow: A) 
+                        A. Watch very few videos [0-0.2].
+                        B. Watch fewer videos [0.2-0.4].
+                        C. Watch some videos [0.4-0.6].
+                        D. Watch more videos [0.6,0.8].
+                        E. Watch lots of videos [0.8,1.0].
+                        F. Watch massive videos [1.0,...].
+                    
+Trell is an Indian social media and content creation app that allows users to create and share video content, focusing on travel, lifestyle, and various experiences. Now you are role-playing this person based on the above information.This one has an age group 1, who lives in a 2.
+    This one's average watch time completion rate of the videos is 0.00573526,
+      and the average time spent on a video in seconds is 3.
+      Average duration of the videos that this person has watched till date is 523.08."
+    This one comments with very few words(normalized score 0.0, in range of [0,0.2]), while at the same time watches very few videos(normalized score 0.008403361, in range of [0,0.2]). Besides, this person and very few videos on weekends per day(normalized score 0.0, in range of [0,0.2])
+According to the information, can you help me choose the video playback habits of this person on weekdays? 
+                    Your response should consist of just the option A,B,C,D,E or F without any additional text, explanation or even a space letter(Here is an example of a required reponse that you should follow: A) 
+                        A. Watch very few videos [0-0.2].
+                        B. Watch fewer videos [0.2-0.4].
+                        C. Watch some videos [0.4-0.6].
+                        D. Watch more videos [0.6,0.8].
+                        E. Watch lots of videos [0.8,1.0].
+                        F. Watch massive videos [1.0,...].
+                    
+Trell is an Indian social media and content creation app that allows users to create and share video content, focusing on travel, lifestyle, and various experiences. Now you are role-playing this person based on the above information.This one has an age group 1, who lives in a 2.
+    This one's average watch time completion rate of the videos is 0.456548797,
+      and the average time spent on a video in seconds is 12.33333333.
+      Average duration of the videos that this person has watched till date is 53.76664."
+    This one comments with very few words(normalized score 0.0, in range of [0,0.2]), while at the same time watches fewer videos(normalized score 0.204918033, in range of [0.2,0.4]). Besides, this person and very few videos on weekends per day(normalized score 0.0, in range of [0,0.2])
+According to the information, can you help me choose the video playback habits of this person on weekdays? 
+                    Your response should consist of just the option A,B,C,D,E or F without any additional text, explanation or even a space letter(Here is an example of a required reponse that you should follow: A) 
+                        A. Watch very few videos [0-0.2].
+                        B. Watch fewer videos [0.2-0.4].
+                        C. Watch some videos [0.4-0.6].
+                        D. Watch more videos [0.6,0.8].
+                        E. Watch lots of videos [0.8,1.0].
+                        F. Watch massive videos [1.0,...].
+                    
+Trell is an Indian social media and content creation app that allows users to create and share video content, focusing on travel, lifestyle, and various experiences. Now you are role-playing this person based on the above information.This one has an age group 1, who lives in a 2.
+    This one's average watch time completion rate of the videos is 0.306116168,
+      and the average time spent on a video in seconds is 7.2.
+      Average duration of the videos that this person has watched till date is 31.36955556."
+    This one comments with very few words(normalized score 0.0, in range of [0,0.2]), while at the same time watches very few videos(normalized score 0.072580645, in range of [0,0.2]). Besides, this person and very few videos on weekends per day(normalized score 0.080645161, in range of [0,0.2])
+According to the information, can you help me choose the video playback habits of this person on weekdays? 
+                    Your response should consist of just the option A,B,C,D,E or F without any additional text, explanation or even a space letter(Here is an example of a required reponse that you should follow: A) 
+                        A. Watch very few videos [0-0.2].
+                        B. Watch fewer videos [0.2-0.4].
+                        C. Watch some videos [0.4-0.6].
+                        D. Watch more videos [0.6,0.8].
+                        E. Watch lots of videos [0.8,1.0].
+                        F. Watch massive videos [1.0,...].
+                    
+Trell is an Indian social media and content creation app that allows users to create and share video content, focusing on travel, lifestyle, and various experiences. Now you are role-playing this person based on the above information.This one has an age group 1, who lives in a 2.
+    This one's average watch time completion rate of the videos is 0.463330487,
+      and the average time spent on a video in seconds is 34.16.
+      Average duration of the videos that this person has watched till date is 53.99609091."
+    This one comments with very few words(normalized score 0.0, in range of [0,0.2]), while at the same time watches fewer videos(normalized score 0.2, in range of [0.2,0.4]). Besides, this person and very few videos on weekends per day(normalized score 0.041666667, in range of [0,0.2])
+According to the information, can you help me choose the video playback habits of this person on weekdays? 
+                    Your response should consist of just the option A,B,C,D,E or F without any additional text, explanation or even a space letter(Here is an example of a required reponse that you should follow: A) 
+                        A. Watch very few videos [0-0.2].
+                        B. Watch fewer videos [0.2-0.4].
+                        C. Watch some videos [0.4-0.6].
+                        D. Watch more videos [0.6,0.8].
+                        E. Watch lots of videos [0.8,1.0].
+                        F. Watch massive videos [1.0,...].
+                    
+Trell is an Indian social media and content creation app that allows users to create and share video content, focusing on travel, lifestyle, and various experiences. Now you are role-playing this person based on the above information.This one has an age group 2, who lives in a 2.
+    This one's average watch time completion rate of the videos is 0.429467752,
+      and the average time spent on a video in seconds is 15.28571429.
+      Average duration of the videos that this person has watched till date is 96.231625."
+    This one comments with very few words(normalized score 0.153846154, in range of [0,0.2]), while at the same time watches very few videos(normalized score 0.093220339, in range of [0,0.2]). Besides, this person and very few videos on weekends per day(normalized score 0.012711864, in range of [0,0.2])
+According to the information, can you help me choose the video playback habits of this person on weekdays? 
+                    Your response should consist of just the option A,B,C,D,E or F without any additional text, explanation or even a space letter(Here is an example of a required reponse that you should follow: A) 
+                        A. Watch very few videos [0-0.2].
+                        B. Watch fewer videos [0.2-0.4].
+                        C. Watch some videos [0.4-0.6].
+                        D. Watch more videos [0.6,0.8].
+                        E. Watch lots of videos [0.8,1.0].
+                        F. Watch massive videos [1.0,...].
+                    
+Trell is an Indian social media and content creation app that allows users to create and share video content, focusing on travel, lifestyle, and various experiences. Now you are role-playing this person based on the above information.This one has an age group 1, who lives in a 2.
+    This one's average watch time completion rate of the videos is 0.341657271,
+      and the average time spent on a video in seconds is 22.
+      Average duration of the videos that this person has watched till date is 83.0514147."
+    This one comments with very few words(normalized score 0.0, in range of [0,0.2]), while at the same time watches very few videos(normalized score 0.002785515, in range of [0,0.2]). Besides, this person and very few videos on weekends per day(normalized score 0.0, in range of [0,0.2])
+According to the information, can you help me choose the video playback habits of this person on weekdays? 
+                    Your response should consist of just the option A,B,C,D,E or F without any additional text, explanation or even a space letter(Here is an example of a required reponse that you should follow: A) 
+                        A. Watch very few videos [0-0.2].
+                        B. Watch fewer videos [0.2-0.4].
+                        C. Watch some videos [0.4-0.6].
+                        D. Watch more videos [0.6,0.8].
+                        E. Watch lots of videos [0.8,1.0].
+                        F. Watch massive videos [1.0,...].
+                    
+Trell is an Indian social media and content creation app that allows users to create and share video content, focusing on travel, lifestyle, and various experiences. Now you are role-playing this person based on the above information.This one has an age group 1, who lives in a 2.
+    This one's average watch time completion rate of the videos is 0.00573526,
+      and the average time spent on a video in seconds is 3.
+      Average duration of the videos that this person has watched till date is 523.08."
+    This one comments with very few words(normalized score 0.0, in range of [0,0.2]), while at the same time watches very few videos(normalized score 0.008403361, in range of [0,0.2]). Besides, this person and very few videos on weekends per day(normalized score 0.0, in range of [0,0.2])
+According to the information, can you help me choose the video playback habits of this person on weekdays? 
+                    Your response should consist of just the option A,B,C,D,E or F without any additional text, explanation or even a space letter(Here is an example of a required reponse that you should follow: A) 
+                        A. Watch very few videos [0-0.2].
+                        B. Watch fewer videos [0.2-0.4].
+                        C. Watch some videos [0.4-0.6].
+                        D. Watch more videos [0.6,0.8].
+                        E. Watch lots of videos [0.8,1.0].
+                        F. Watch massive videos [1.0,...].
+                    
+Trell is an Indian social media and content creation app that allows users to create and share video content, focusing on travel, lifestyle, and various experiences. Now you are role-playing this person based on the above information.This one has an age group 1, who lives in a 2.
+    This one's average watch time completion rate of the videos is 0.456548797,
+      and the average time spent on a video in seconds is 12.33333333.
+      Average duration of the videos that this person has watched till date is 53.76664."
+    This one comments with very few words(normalized score 0.0, in range of [0,0.2]), while at the same time watches fewer videos(normalized score 0.204918033, in range of [0.2,0.4]). Besides, this person and very few videos on weekends per day(normalized score 0.0, in range of [0,0.2])
+According to the information, can you help me choose the video playback habits of this person on weekdays? 
+                    Your response should consist of just the option A,B,C,D,E or F without any additional text, explanation or even a space letter(Here is an example of a required reponse that you should follow: A) 
+                        A. Watch very few videos [0-0.2].
+                        B. Watch fewer videos [0.2-0.4].
+                        C. Watch some videos [0.4-0.6].
+                        D. Watch more videos [0.6,0.8].
+                        E. Watch lots of videos [0.8,1.0].
+                        F. Watch massive videos [1.0,...].
+                    
+Trell is an Indian social media and content creation app that allows users to create and share video content, focusing on travel, lifestyle, and various experiences. Now you are role-playing this person based on the above information.This one has an age group 1, who lives in a 2.
+    This one's average watch time completion rate of the videos is 0.306116168,
+      and the average time spent on a video in seconds is 7.2.
+      Average duration of the videos that this person has watched till date is 31.36955556."
+    This one comments with very few words(normalized score 0.0, in range of [0,0.2]), while at the same time watches very few videos(normalized score 0.072580645, in range of [0,0.2]). Besides, this person and very few videos on weekends per day(normalized score 0.080645161, in range of [0,0.2])
+According to the information, can you help me choose the video playback habits of this person on weekdays? 
+                    Your response should consist of just the option A,B,C,D,E or F without any additional text, explanation or even a space letter(Here is an example of a required reponse that you should follow: A) 
+                        A. Watch very few videos [0-0.2].
+                        B. Watch fewer videos [0.2-0.4].
+                        C. Watch some videos [0.4-0.6].
+                        D. Watch more videos [0.6,0.8].
+                        E. Watch lots of videos [0.8,1.0].
+                        F. Watch massive videos [1.0,...].
+                    
+Trell is an Indian social media and content creation app that allows users to create and share video content, focusing on travel, lifestyle, and various experiences. Now you are role-playing this person based on the above information.This one has an age group 1, who lives in a 2.
+    This one's average watch time completion rate of the videos is 0.463330487,
+      and the average time spent on a video in seconds is 34.16.
+      Average duration of the videos that this person has watched till date is 53.99609091."
+    This one comments with very few words(normalized score 0.0, in range of [0,0.2]), while at the same time watches fewer videos(normalized score 0.2, in range of [0.2,0.4]). Besides, this person and very few videos on weekends per day(normalized score 0.041666667, in range of [0,0.2])
+According to the information, can you help me choose the video playback habits of this person on weekdays? 
+                    Your response should consist of just the option A,B,C,D,E or F without any additional text, explanation or even a space letter(Here is an example of a required reponse that you should follow: A) 
+                        A. Watch very few videos [0-0.2].
+                        B. Watch fewer videos [0.2-0.4].
+                        C. Watch some videos [0.4-0.6].
+                        D. Watch more videos [0.6,0.8].
+                        E. Watch lots of videos [0.8,1.0].
+                        F. Watch massive videos [1.0,...].
+                    
+Trell is an Indian social media and content creation app that allows users to create and share video content, focusing on travel, lifestyle, and various experiences. Now you are role-playing this person based on the above information.This one has an age group 2, who lives in a 2.
+    This one's average watch time completion rate of the videos is 0.429467752,
+      and the average time spent on a video in seconds is 15.28571429.
+      Average duration of the videos that this person has watched till date is 96.231625."
+    This one comments with very few words(normalized score 0.153846154, in range of [0,0.2]), while at the same time watches very few videos(normalized score 0.093220339, in range of [0,0.2]). Besides, this person and very few videos on weekends per day(normalized score 0.012711864, in range of [0,0.2])
+According to the information, can you help me choose the video playback habits of this person on weekdays? 
+                    Your response should consist of just the option A,B,C,D,E or F without any additional text, explanation or even a space letter(Here is an example of a required reponse that you should follow: A) 
+                        A. Watch very few videos [0-0.2].
+                        B. Watch fewer videos [0.2-0.4].
+                        C. Watch some videos [0.4-0.6].
+                        D. Watch more videos [0.6,0.8].
+                        E. Watch lots of videos [0.8,1.0].
+                        F. Watch massive videos [1.0,...].
+                    
+Trell is an Indian social media and content creation app that allows users to create and share video content, focusing on travel, lifestyle, and various experiences. Now you are role-playing this person based on the above information.This one has an age group 1, who lives in a 2.
+    This one's average watch time completion rate of the videos is 0.341657271,
+      and the average time spent on a video in seconds is 22.
+      Average duration of the videos that this person has watched till date is 83.0514147."
+    This one comments with very few words(normalized score 0.0, in range of [0,0.2]), while at the same time watches very few videos(normalized score 0.002785515, in range of [0,0.2]). Besides, this person and very few videos on weekends per day(normalized score 0.0, in range of [0,0.2])
+According to the information, can you help me choose the video playback habits of this person on weekdays? 
+                    Your response should consist of just the option A,B,C,D,E or F without any additional text, explanation or even a space letter(Here is an example of a required reponse that you should follow: A) 
+                        A. Watch very few videos [0-0.2].
+                        B. Watch fewer videos [0.2-0.4].
+                        C. Watch some videos [0.4-0.6].
+                        D. Watch more videos [0.6,0.8].
+                        E. Watch lots of videos [0.8,1.0].
+                        F. Watch massive videos [1.0,...].
+                    
+Trell is an Indian social media and content creation app that allows users to create and share video content, focusing on travel, lifestyle, and various experiences. Now you are role-playing this person based on the above information.This one has an age group 1, who lives in a 2.
+    This one's average watch time completion rate of the videos is 0.00573526,
+      and the average time spent on a video in seconds is 3.
+      Average duration of the videos that this person has watched till date is 523.08."
+    This one comments with very few words(normalized score 0.0, in range of [0,0.2]), while at the same time watches very few videos(normalized score 0.008403361, in range of [0,0.2]). Besides, this person and very few videos on weekends per day(normalized score 0.0, in range of [0,0.2])
+According to the information, can you help me choose the video playback habits of this person on weekdays? 
+                    Your response should consist of just the option A,B,C,D,E or F without any additional text, explanation or even a space letter(Here is an example of a required reponse that you should follow: A) 
+                        A. Watch very few videos [0-0.2].
+                        B. Watch fewer videos [0.2-0.4].
+                        C. Watch some videos [0.4-0.6].
+                        D. Watch more videos [0.6,0.8].
+                        E. Watch lots of videos [0.8,1.0].
+                        F. Watch massive videos [1.0,...].
+                    
+Trell is an Indian social media and content creation app that allows users to create and share video content, focusing on travel, lifestyle, and various experiences. Now you are role-playing this person based on the above information.This one has an age group 1, who lives in a 2.
+    This one's average watch time completion rate of the videos is 0.456548797,
+      and the average time spent on a video in seconds is 12.33333333.
+      Average duration of the videos that this person has watched till date is 53.76664."
+    This one comments with very few words(normalized score 0.0, in range of [0,0.2]), while at the same time watches fewer videos(normalized score 0.204918033, in range of [0.2,0.4]). Besides, this person and very few videos on weekends per day(normalized score 0.0, in range of [0,0.2])
+According to the information, can you help me choose the video playback habits of this person on weekdays? 
+                    Your response should consist of just the option A,B,C,D,E or F without any additional text, explanation or even a space letter(Here is an example of a required reponse that you should follow: A) 
+                        A. Watch very few videos [0-0.2].
+                        B. Watch fewer videos [0.2-0.4].
+                        C. Watch some videos [0.4-0.6].
+                        D. Watch more videos [0.6,0.8].
+                        E. Watch lots of videos [0.8,1.0].
+                        F. Watch massive videos [1.0,...].
+                    
+Trell is an Indian social media and content creation app that allows users to create and share video content, focusing on travel, lifestyle, and various experiences. Now you are role-playing this person based on the above information.This one has an age group 1, who lives in a 2.
+    This one's average watch time completion rate of the videos is 0.306116168,
+      and the average time spent on a video in seconds is 7.2.
+      Average duration of the videos that this person has watched till date is 31.36955556."
+    This one comments with very few words(normalized score 0.0, in range of [0,0.2]), while at the same time watches very few videos(normalized score 0.072580645, in range of [0,0.2]). Besides, this person and very few videos on weekends per day(normalized score 0.080645161, in range of [0,0.2])
+According to the information, can you help me choose the video playback habits of this person on weekdays? 
+                    Your response should consist of just the option A,B,C,D,E or F without any additional text, explanation or even a space letter(Here is an example of a required reponse that you should follow: A) 
+                        A. Watch very few videos [0-0.2].
+                        B. Watch fewer videos [0.2-0.4].
+                        C. Watch some videos [0.4-0.6].
+                        D. Watch more videos [0.6,0.8].
+                        E. Watch lots of videos [0.8,1.0].
+                        F. Watch massive videos [1.0,...].
+                    
+Trell is an Indian social media and content creation app that allows users to create and share video content, focusing on travel, lifestyle, and various experiences. Now you are role-playing this person based on the above information.This one has an age group 1, who lives in a 2.
+    This one's average watch time completion rate of the videos is 0.463330487,
+      and the average time spent on a video in seconds is 34.16.
+      Average duration of the videos that this person has watched till date is 53.99609091."
+    This one comments with very few words(normalized score 0.0, in range of [0,0.2]), while at the same time watches fewer videos(normalized score 0.2, in range of [0.2,0.4]). Besides, this person and very few videos on weekends per day(normalized score 0.041666667, in range of [0,0.2])
+According to the information, can you help me choose the video playback habits of this person on weekdays? 
+                    Your response should consist of just the option A,B,C,D,E or F without any additional text, explanation or even a space letter(Here is an example of a required reponse that you should follow: A) 
+                        A. Watch very few videos [0-0.2].
+                        B. Watch fewer videos [0.2-0.4].
+                        C. Watch some videos [0.4-0.6].
+                        D. Watch more videos [0.6,0.8].
+                        E. Watch lots of videos [0.8,1.0].
+                        F. Watch massive videos [1.0,...].
+                    
+Trell is an Indian social media and content creation app that allows users to create and share video content, focusing on travel, lifestyle, and various experiences. Now you are role-playing this person based on the above information.This one has an age group 2, who lives in a 2.
+    This one's average watch time completion rate of the videos is 0.429467752,
+      and the average time spent on a video in seconds is 15.28571429.
+      Average duration of the videos that this person has watched till date is 96.231625."
+    This one comments with very few words(normalized score 0.153846154, in range of [0,0.2]), while at the same time watches very few videos(normalized score 0.093220339, in range of [0,0.2]). Besides, this person and very few videos on weekends per day(normalized score 0.012711864, in range of [0,0.2])
+According to the information, can you help me choose the video playback habits of this person on weekdays? 
+                    Your response should consist of just the option A,B,C,D,E or F without any additional text, explanation or even a space letter(Here is an example of a required reponse that you should follow: A) 
+                        A. Watch very few videos [0-0.2].
+                        B. Watch fewer videos [0.2-0.4].
+                        C. Watch some videos [0.4-0.6].
+                        D. Watch more videos [0.6,0.8].
+                        E. Watch lots of videos [0.8,1.0].
+                        F. Watch massive videos [1.0,...].
+                    
+Trell is an Indian social media and content creation app that allows users to create and share video content, focusing on travel, lifestyle, and various experiences. Now you are role-playing this person based on the above information.This one has an age group 1, who lives in a 2.
+    This one's average watch time completion rate of the videos is 0.341657271,
+      and the average time spent on a video in seconds is 22.
+      Average duration of the videos that this person has watched till date is 83.0514147."
+    This one comments with very few words(normalized score 0.0, in range of [0,0.2]), while at the same time watches very few videos(normalized score 0.002785515, in range of [0,0.2]). Besides, this person and very few videos on weekends per day(normalized score 0.0, in range of [0,0.2])
+According to the information, can you help me choose the video playback habits of this person on weekdays? 
+                    Your response should consist of just the option A,B,C,D,E or F without any additional text, explanation or even a space letter(Here is an example of a required reponse that you should follow: A) 
+                        A. Watch very few videos [0-0.2].
+                        B. Watch fewer videos [0.2-0.4].
+                        C. Watch some videos [0.4-0.6].
+                        D. Watch more videos [0.6,0.8].
+                        E. Watch lots of videos [0.8,1.0].
+                        F. Watch massive videos [1.0,...].
+                    
+Trell is an Indian social media and content creation app that allows users to create and share video content, focusing on travel, lifestyle, and various experiences. Now you are role-playing this person based on the above information.This one has an age group 1, who lives in a 2.
+    This one's average watch time completion rate of the videos is 0.00573526,
+      and the average time spent on a video in seconds is 3.
+      Average duration of the videos that this person has watched till date is 523.08."
+    This one comments with very few words(normalized score 0.0, in range of [0,0.2]), while at the same time watches very few videos(normalized score 0.008403361, in range of [0,0.2]). Besides, this person and very few videos on weekends per day(normalized score 0.0, in range of [0,0.2])
+According to the information, can you help me choose the video playback habits of this person on weekdays? 
+                    Your response should consist of just the option A,B,C,D,E or F without any additional text, explanation or even a space letter(Here is an example of a required reponse that you should follow: A) 
+                        A. Watch very few videos [0-0.2].
+                        B. Watch fewer videos [0.2-0.4].
+                        C. Watch some videos [0.4-0.6].
+                        D. Watch more videos [0.6,0.8].
+                        E. Watch lots of videos [0.8,1.0].
+                        F. Watch massive videos [1.0,...].
+                    
+Trell is an Indian social media and content creation app that allows users to create and share video content, focusing on travel, lifestyle, and various experiences. Now you are role-playing this person based on the above information.This one has an age group 1, who lives in a 2.
+    This one's average watch time completion rate of the videos is 0.456548797,
+      and the average time spent on a video in seconds is 12.33333333.
+      Average duration of the videos that this person has watched till date is 53.76664."
+    This one comments with very few words(normalized score 0.0, in range of [0,0.2]), while at the same time watches fewer videos(normalized score 0.204918033, in range of [0.2,0.4]). Besides, this person and very few videos on weekends per day(normalized score 0.0, in range of [0,0.2])
+According to the information, can you help me choose the video playback habits of this person on weekdays? 
+                    Your response should consist of just the option A,B,C,D,E or F without any additional text, explanation or even a space letter(Here is an example of a required reponse that you should follow: A) 
+                        A. Watch very few videos [0-0.2].
+                        B. Watch fewer videos [0.2-0.4].
+                        C. Watch some videos [0.4-0.6].
+                        D. Watch more videos [0.6,0.8].
+                        E. Watch lots of videos [0.8,1.0].
+                        F. Watch massive videos [1.0,...].
+                    
+Trell is an Indian social media and content creation app that allows users to create and share video content, focusing on travel, lifestyle, and various experiences. Now you are role-playing this person based on the above information.This one has an age group 1, who lives in a 2.
+    This one's average watch time completion rate of the videos is 0.306116168,
+      and the average time spent on a video in seconds is 7.2.
+      Average duration of the videos that this person has watched till date is 31.36955556."
+    This one comments with very few words(normalized score 0.0, in range of [0,0.2]), while at the same time watches very few videos(normalized score 0.072580645, in range of [0,0.2]). Besides, this person and very few videos on weekends per day(normalized score 0.080645161, in range of [0,0.2])
+According to the information, can you help me choose the video playback habits of this person on weekdays? 
+                    Your response should consist of just the option A,B,C,D,E or F without any additional text, explanation or even a space letter(Here is an example of a required reponse that you should follow: A) 
+                        A. Watch very few videos [0-0.2].
+                        B. Watch fewer videos [0.2-0.4].
+                        C. Watch some videos [0.4-0.6].
+                        D. Watch more videos [0.6,0.8].
+                        E. Watch lots of videos [0.8,1.0].
+                        F. Watch massive videos [1.0,...].
+                    

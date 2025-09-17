@@ -1,0 +1,69 @@
+{
+  "gender": {
+    "male": "male,",
+    "female": "female,"
+  },
+
+
+"MaritalStatus": {
+    "Single": "single.",
+    "Married": "married.",
+    "Divorced": "divorced.",
+    "Widowed": "widowed."
+},
+
+"JobLevel": {
+    "Intern/Fresher": "The respondent is at the Intern/Fresher job level.",
+    "Junior": "The respondent is at the Junior job level.",
+    "Mid": "The respondent is at the Mid job level.",
+    "Senior": "The respondent is at the Senior job level.",
+    "Lead": "The respondent is at the Lead job level."
+},
+
+"Dept": {
+    "IT": "The respondent works in the IT department.",
+    "HR": "The respondent works in the HR department.",
+    "Finance": "The respondent works in the Finance department.",
+    "Marketing": "The respondent works in the Marketing department.",
+    "Sales": "The respondent works in the Sales department.",
+    "Legal": "The respondent works in the Legal department.",
+    "Operations": "The respondent works in the Operations department.",
+    "Customer Service": "The respondent works in the Customer Service department."
+},
+
+"EmpType": {
+    "Full-Time": "is employed full-time.",
+    "Part-Time": "is employed part-time.",
+    "Contract": "is employed on a contract basis."
+},
+
+"CommuteMode": {
+    "Car": "The respondent commutes by car.",
+    "Public Transport": "The respondent commutes by public transport.",
+    "Bike": "The respondent commutes by bike.",
+    "Walk": "The respondent commutes by walking.",
+    "Motorbike": "The respondent commutes by motorbike."
+},
+
+"EduLevel": {
+    "High School": "The respondent's highest level of education is high school.",
+    "Bachelor": "The respondent's highest level of education is a bachelor's degree.",
+    "Master": "The respondent's highest level of education is a master's degree.",
+    "PhD": "The respondent's highest level of education is a PhD."
+},
+
+"haveOT": {
+    "True": "regularly works overtime",
+    "False": "does not regularly works overtime"
+},
+"JobSatisfaction": {
+    "1": "Respondent is very dissatisfied with his or her job.",
+    "2": "Respondent is dissatisfied with his or her job.",
+    "3": "Respondent feels neutral about his or her job.",
+    "4": "Respondent is satisfied with his or her job.",
+    "5": "Respondent is very satisfied with his or her job."
+  }
+}
+
+
+

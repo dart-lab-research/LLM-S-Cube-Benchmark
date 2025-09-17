@@ -1,0 +1,29 @@
+{
+    "_comment1": "project config",
+    "config_folder": "config",
+    "mappings_folder": "config/mappings",
+    "templates_folder": "config/templates",
+    "result_folder": "result/2round/employee/zeroshot",
+    "data_root_folder": "data/employee/",
+    "plot_folder": "plots",
+    "exp_folder": "exp_data",
+
+    "_comment3": "fields config",
+     "id_fields": ["EmpID"],
+    "situation": ["WLB","WorkEnv","Workload","Stress","JobSatisfaction","EmpID","Age","Gender", "MaritalStatus", "JobLevel","Dept","EmpType","WorkEnv","Workload",
+    "Stress","CommuteMode","EduLevel","haveOT","JobSatisfaction","Experience","PhysicalActivityHours","SleepHours","CommuteDistance","NumCompanies","TeamSize","NumReports","EduLevel","TrainingHoursPerYear"],
+    "pred_fields": ["WLB","WorkEnv","Workload","Stress","JobSatisfaction"],
+    "option_field": ["Gender", "MaritalStatus", "JobLevel","Dept","EmpType","WLB","WorkEnv","Workload",
+    "Stress","CommuteMode","EduLevel","haveOT","JobSatisfaction"],
+    "number_field": ["Age","Experience","PhysicalActivityHours","SleepHours","CommuteDistance","NumCompanies","TeamSize","NumReports","EduLevel","TrainingHoursPerYear"],
+
+    "_comment4": "aggregation rules",
+    "group_rules": {
+        "filter0": {}
+    },
+
+    "_comment5": "cols to reserve",
+    "_comment6": "filtered csv path (after filtering selected features)"
+
+
+}

@@ -1,0 +1,129 @@
+{
+    "gender": {
+        "male": "the gender of interview is male,",
+        "female": "the gender of interview is female,",
+        "Unknown": "the gender of the respondent is unknown,"
+    },
+    "Occupation": {
+        "Corporate": "the respondent works in a corporate environment,",
+        "Housewife": "the respondent is a housewife,",
+        "Others": "the respondent's occupation does not fit into corporate, housewife, or business categories,",
+        "Business": "the respondent is engaged in business,",
+        "Student": "the respondent is a student,",
+        "Unknown": "the respondent's occupation is unknown,"
+    },
+    "self_employed": {
+        "true": "work model is self_employed,",
+        "false": "work model is not self_employed,",
+        "null": "doesn't have a work,",
+        "Unknown": "the respondent's employment status is unknown,"
+    },
+    "family_history": {
+        "true": "respondent's family have history of mental health disorders,",
+        "false": "respondent's family doesn't have history of mental health disorders,",
+        "Unknown": "the respondent's family history of mental health disorders is unknown,"
+    },
+    "treatment": {
+        "true": "respondent have received treatment or therapy for mental health problems",
+        "false": "respondent never received treatment or therapy for mental health problems",
+        "Unknown": "whether the respondent has received treatment for mental health problems is unknown"
+    },
+    "Days_Indoors": {
+        "More than 2 months": "the respondent has spent more than two consecutive months primarily indoors, rarely going outside,",
+        "15-30 days": "the respondent has spent roughly 15 to 30 days indoors, with relatively infrequent outings,",
+        "Go out Every day": "the respondent goes out every day, spending minimal time indoors,",
+        "31-60 days": "the respondent has spent roughly 31 to 60 days primarily indoors, with limited outdoor activity,",
+        "1-14 days": "the respondent has spent about 1 to 14 days primarily indoors, occasionally going outside,",
+        "Unknown": "the respondent's time spent indoors is unknown,"
+    },
+    "Growing_Stress": {
+        "Yes": "the respondent currently feels a high level of stress,",
+        "Maybe": "the respondent might be experiencing some level of stress,",
+        "No": "the respondent does not feel much or any stress,",
+        "Unknown": "the respondent's stress level is unknown,"
+    },
+    "Mental_Health_History": {
+        "Yes": "the respondent has a known history of mental health disorders,",
+        "Maybe": "the respondent may have a partial or uncertain history of mental health disorders,",
+        "No": "the respondent has no known history of mental health disorders,",
+        "Unknown": "the respondent's history of mental health disorders is unknown,"
+    },
+    "Mood_Swings": {
+        "High": "the respondent experiences sudden mood swings of high intensity,",
+        "Medium": "the respondent experiences sudden mood swings of medium intensity,",
+        "Low": "the respondent experiences sudden mood swings of low intensity,",
+        "Unknown": "the respondent's mood swing intensity is unknown,"
+    },
+    "Coping_Struggles": {
+        "Yes": "the respondent has difficulty coping with pressure or stress,",
+        "No": "the respondent does not have difficulty coping with pressure or stress,",
+        "Unknown": "whether the respondent has difficulty coping with stress is unknown,"
+    },
+    "Work_Interest": {
+        "Yes": "the respondent shows a high level of interest and motivation in their work,",
+        "Maybe": "the respondent has a moderate or uncertain level of interest and motivation in their work,",
+        "No": "the respondent does not show much interest or motivation in their work,",
+        "Unknown": "the respondent's level of interest and motivation in their work is unknown,"
+    },
+    "Social_Weakness": {
+        "Yes": "the respondent finds it difficult to interact socially or maintain relationships,",
+        "Maybe": "the respondent may have some difficulty interacting socially or maintaining relationships,",
+        "No": "the respondent does not find it difficult to interact socially or maintain relationships,",
+        "Unknown": "the respondent's social interaction ability is unknown,"
+    },
+    "mental_health_interview": {
+        "Yes": "the respondent is willing to be interviewed about their mental health,",
+        "Maybe": "the respondent might be open to discussing their mental health, but is not entirely certain,",
+        "No": "the respondent is not willing to participate in a mental health interview,",
+        "Unknown": "the respondent's willingness to participate in a mental health interview is unknown,"
+    },
+    "care_options": {
+        "Yes": "the respondent is aware of and/or currently using mental health care options,",
+        "No": "the respondent is neither aware of nor using any mental health care options,",
+        "Not sure": "the respondent is uncertain about available mental health care options or whether they use them,",
+        "Unknown": "the respondent's awareness or use of mental health care options is unknown,"
+    },
+    "Changes_Habits": {
+        "Yes": "respondent experienced have changes in sleeping habits or patterns",
+        "No": "respondent experienced does not have any changes in sleeping habits or patterns",
+        "Maybe": "respondent experienced might have changes in sleeping habits or patterns",
+        "Unknown": "whether the respondent has experienced changes in sleeping habits or patterns is unknown"
+    },
+    "Country": {
+      "Nigeria":                 "the respondent lives in Nigeria,",
+      "Russia":                  "the respondent lives in Russia,",
+      "Switzerland":             "the respondent lives in Switzerland,",
+      "Croatia":                 "the respondent lives in Croatia,",
+      "Mexico":                  "the respondent lives in Mexico,",
+      "Israel":                  "the respondent lives in Israel,",
+      "Costa Rica":              "the respondent lives in Costa Rica,",
+      "Ireland":                 "the respondent lives in Ireland,",
+      "United Kingdom":          "the respondent lives in the United Kingdom,",
+      "Bosnia and Herzegovina":  "the respondent lives in Bosnia and Herzegovina,",
+      "Brazil":                  "the respondent lives in Brazil,",
+      "Singapore":               "the respondent lives in Singapore,",
+      "Denmark":                 "the respondent lives in Denmark,",
+      "Thailand":                "the respondent lives in Thailand,",
+      "Australia":               "the respondent lives in Australia,",
+      "Colombia":                "the respondent lives in Colombia,",
+      "Finland":                 "the respondent lives in Finland,",
+      "Portugal":                "the respondent lives in Portugal,",
+      "Canada":                  "the respondent lives in Canada,",
+      "France":                  "the respondent lives in France,",
+      "Moldova":                 "the respondent lives in Moldova,",
+      "United States":           "the respondent lives in the United States,",
+      "Czech Republic":          "the respondent lives in the Czech Republic,",
+      "Germany":                 "the respondent lives in Germany,",
+      "Poland":                  "the respondent lives in Poland,",
+      "India":                   "the respondent lives in India,",
+      "South Africa":            "the respondent lives in South Africa,",
+      "Philippines":             "the respondent lives in the Philippines,",
+      "Italy":                   "the respondent lives in Italy,",
+      "Belgium":                 "the respondent lives in Belgium,",
+      "Greece":                  "the respondent lives in Greece,",
+      "Georgia":                 "the respondent lives in Georgia,",
+      "New Zealand":             "the respondent lives in New Zealand,",
+      "Sweden":                  "the respondent lives in Sweden,",
+      "Netherlands":             "the respondent lives in the Netherlands,"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "_comment1": "project config",
+    "config_folder": "config",
+    "mappings_folder": "config/mappings",
+    "templates_folder": "config/templates",
+    "result_folder": "result/2round/mental/zeroshot",
+    "data_root_folder": "data/mental_health/",
+    "plot_folder": "plots",
+    "exp_folder": "exp_data",
+    
+    "_comment3": "fields config",
+     "id_fields": ["index"],
+    "situation": ["index","Timestamp","Country","family_history", "treatment", "Days_Indoors","Changes_Habits","Mental_Health_History","mental_health_interview","care_options","Work_Interest",
+    "Growing_Stress","Mood_Swings","Coping_Struggles","Social_Weakness"],
+     "cond_fields": ["Changes_Habits","Mental_Health_History","mental_health_interview","care_options","Work_Interest"],
+    "pred_fields": ["Growing_Stress","Mood_Swings","Coping_Struggles","Social_Weakness"],
+    "option_field": ["family_history", "treatment", "Days_Indoors","Changes_Habits","Mental_Health_History","mental_health_interview","care_options","Work_Interest",
+    "Growing_Stress","Mood_Swings","Coping_Struggles","Social_Weakness"],
+    "number_field": ["Timestamp","Country"],
+    
+    "_comment4": "aggregation rules",
+    "group_rules": {
+        "filter0": {}
+    },
+    
+    "_comment5": "cols to reserve",
+    "background_cols_to_reserve": ["Timestamp","Gender", "Occupation", "Country", "self_employed","family_history", "treatment", "Days_Indoors"],
+    "_comment6": "filtered csv path (after filtering selected features)"
+
+
+}

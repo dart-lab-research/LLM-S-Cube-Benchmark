@@ -1,0 +1,185 @@
+
+{
+   
+    "UGASHERE": {
+        "1": "Natural gas is available in neighborhood.",
+        "0": "Natural gas is not available in neighborhood."
+      },
+    "ELFOOD": {  
+          "1": "Electricity is used for cooking",  
+          "0": "Electricity is not used for cooking"  
+    },  
+    "LPCOOK": {  
+          "1": "Propane is used for cooking",  
+          "0": "Propane is not used for cooking"  
+    } ,
+      
+    "UGCOOK": {  
+        "1": "Natural gas is used for cooking",  
+        "0": "Natural gas is not used for cooking"  
+    } , 
+    "USEEL": {  
+        "1": "Electricity is used"  
+    },  
+    "USENG": {  
+        "1": "Natural gas is used",  
+        "0": "Natural gas is not used"  
+    },  
+    "USELP": {  
+        "1": "Propane is used",  
+        "0": "Propane is not used"  
+    },  
+    "USEFO": {  
+        "1": "Fuel oil is used",  
+        "0": "Fuel oil is not used"  
+    },  
+    "USESOLAR": {  
+        "1": "Solar thermal is used",  
+        "0": "Solar thermal is not used"  
+    },  
+    "USEWOOD": {  
+        "1": "Wood is used",  
+        "0": "Wood is not used"  
+    },  
+    "ALLELEC": {  
+        "1": "Household only uses electricity",  
+        "0": "Household uses other energy sources besides electricity"  
+    },
+   
+  "EDUCATION": {
+    "1": "Less than high school diploma or GED",
+    "2": "High school diploma or GED",
+    "3": "Some college or Associate's degree",
+    "4": "Bachelor's degree",
+    "5": "Master's, Professional, or Doctoral degree"
+  },
+  "HHSEX":{
+    "1":"female",
+    "2":"male"
+  },
+  "EMPLOYHH": {
+    "1": "Employed full-time",
+    "2": "Employed part-time",
+    "3": "Retired",
+    "4": "Not employed"
+  },
+   
+    "ATHOME": {  
+      "0": "the number of weekdays someone is at home most or all of the day is None",  
+      "1": "the number of weekdays someone is at home most or all of the day is 1 day",  
+      "2": "the number of weekdays someone is at home most or all of the day is 2 days",  
+      "3": "the number of weekdays someone is at home most or all of the day is 3 days",  
+      "4": "the number of weekdays someone is at home most or all of the day is 4 days",  
+      "5": "the number of weekdays someone is at home most or all of the day is 5 days"  
+    },
+  "MONEYPY": {  
+    "1": "Less than $5,000",  
+    "2": "$5,000 - $7,499",  
+    "3": "$7,500 - $9,999",  
+    "4": "$10,000 - $12,499",  
+    "5": "$12,500 - $14,999",  
+    "6": "$15,000 - $19,999",  
+    "7": "$20,000 - $24,999",  
+    "8": "$25,000 - $29,999",  
+    "9": "$30,000 - $34,999",  
+    "10": "$35,000 - $39,999",  
+    "11": "$40,000 - $49,999",  
+    "12": "$50,000 - $59,999",  
+    "13": "$60,000 - $74,999",  
+    "14": "$75,000 - $99,999",  
+    "15": "$100,000 - $149,999",  
+    "16": "$150,000 or more"  
+  },
+  
+  "HOUSEHOLDER_RACE": {  
+    "1": "White Alone",  
+    "2": "Black or African/American Alone",  
+    "3": "American Indian or Alaska Native Alone",  
+    "4": "Asian Alone",  
+    "5": "Native Hawaiian or Other Pacific Islander Alone",  
+    "6": "2 or More Races Selected"  
+  } , 
+
+  "state_postal": {
+    "AL": "Alabama",
+    "AK": "Alaska",
+    "AZ": "Arizona",
+    "AR": "Arkansas",
+    "CA": "California",
+    "CO": "Colorado",
+    "CT": "Connecticut",
+    "DE": "Delaware",
+    "DC": "District of Columbia",
+    "FL": "Florida",
+    "GA": "Georgia",
+    "HI": "Hawaii",
+    "ID": "Idaho",
+    "IL": "Illinois",
+    "IN": "Indiana",
+    "IA": "Iowa",
+    "KS": "Kansas",
+    "KY": "Kentucky",
+    "LA": "Louisiana",
+    "ME": "Maine",
+    "MD": "Maryland",
+    "MA": "Massachusetts",
+    "MI": "Michigan",
+    "MN": "Minnesota",
+    "MS": "Mississippi",
+    "MO": "Missouri",
+    "MT": "Montana",
+    "NE": "Nebraska",
+    "NV": "Nevada",
+    "NH": "New Hampshire",
+    "NJ": "New Jersey",
+    "NM": "New Mexico",
+    "NY": "New York",
+    "NC": "North Carolina",
+    "ND": "North Dakota",
+    "OH": "Ohio",
+    "OK": "Oklahoma",
+    "OR": "Oregon",
+    "PA": "Pennsylvania",
+    "RI": "Rhode Island",
+    "SC": "South Carolina",
+    "SD": "South Dakota",
+    "TN": "Tennessee",
+    "TX": "Texas",
+    "UT": "Utah",
+    "VT": "Vermont",
+    "VA": "Virginia",
+    "WA": "Washington",
+    "WV": "West Virginia",
+    "WI": "Wisconsin",
+    "WY": "Wyoming"
+  },
+   
+  "ELPAY": {  
+    "1": "Household is responsible for paying for all electricity used in this home",  
+    "2": "All electricity used in this home is included in the rent or condo fee",  
+    "3": "Some is paid by the household, some is included in the rent or condo fee",  
+    "99": "Other"  
+    
+  },
+  "Tasks":{
+    "nKWH": "Total electricity use, in kilowatthours, 2020, including self-generation of solar power, ranging [42.01-184101.84]",
+
+    "nDOLLAR": "Total electricity cost, in dollars, 2020 , ranging [-889.48-15680.18]",
+
+    "nHDD65": "Heating degree days in 2020, base temperature 65F; Derived from the weighted temperatures of nearby weather stations, ranging [0-17383]",
+
+    "nCDD65": "Cooling degree days in 2020, base temperature 65F; Derived from the weighted temperatures of nearby weather stations, ranging [0,5534]",
+
+    "nBTU": "Total usage for space heating including electricity, natural gas, propane, and fuel oil, in thousand Btu, 2020, ranging [0-396395]",
+
+    "nTOTAL": "Total cost including electricity, natural gas, propane, and fuel oil, in dollars, 2020 , ranging [-150.51-20043.41]",
+
+    "jELFOOD": "Electricity is used for cooking or not?" ,
+    "jUGCOOK": "Natural gas is used for cooking or not?",
+    "jLPCOOK": "Propane is used for cooking or not ?"
+
+
+    }
+
+}
+
